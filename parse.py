@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import datetime as dt
 import multiprocessing
+import praw
 from psaw import PushshiftAPI
 
 
