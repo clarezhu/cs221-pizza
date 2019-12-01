@@ -35,7 +35,7 @@ def getSubComments(comment, subComments, verbose=True):
 
 def construct_features(idx): #index in submissions
         submission = submissions[idx]
-        #print("STARTING...")
+        #print("STARTING...", idx)
         d = {}
 
         d['request_id'] = submission.id
@@ -90,7 +90,7 @@ def construct_features(idx): #index in submissions
             child_comments = []
             getSubComments(tl_comment, child_comments)
             for child_comment in child_comments:
-                if "**A**" in child_comment.body:
+                if "GIFT transaction #"  in child_comment.body:
                     info_lines = child_comment.body.splitlines()
                     for info_line in info_lines:
                         if "**A**" in info_line:
@@ -148,15 +148,16 @@ def construct_features(idx): #index in submissions
         return d
 
 
-assert(len(submissions) == 4754)
-pool = multiprocessing.Pool(8)
-dict_list = pool.map(construct_features, range(len(submissions)))
-pool.close()
+if __name__ == '__main__':
+    #assert(len(submissions) == 4754)
+    pool = multiprocessing.Pool(8)
+    dict_list = pool.map(construct_features, range(500))
+    pool.close()
 
 
-from pandas.io.json import json_normalize
-df = pd.DataFrame(json_normalize(dict_list))
-pd.to_csv("new.csv", sep = "\t")
+    from pandas.io.json import json_normalize
+    df = pd.DataFrame(json_normalize(dict_list))
+    pd.to_csv("new.csv", sep = "\t")
 
-with open('dict_list.pkl', 'wb') as f:
-    pickle.dump(dict_list, f)
+    with open('dict_list.pkl', 'wb') as f:
+         pickle.dump(dict_list, f)
