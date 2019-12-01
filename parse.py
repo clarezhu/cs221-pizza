@@ -25,7 +25,7 @@ def getSubComments(comment, subComments, verbose=True):
 def construct_features(idx): #index in submissions
         GiversBotId = 'np6d0'
         submission = submissions[idx]
-        #print("STARTING...", idx)
+        print("STARTING...", idx)
         d = {}
 
         d['request_id'] = submission.id
@@ -154,13 +154,13 @@ if __name__ == '__main__':
     pool = multiprocessing.Pool(8)
 
 
-    dict_list = pool.map(construct_features, range(500))
+    dict_list = pool.map(construct_features, range(100))
     pool.close()
 
 
 
     df = pd.DataFrame(json_normalize(dict_list))
-    pd.to_csv("new.csv", sep = "\t")
+    df.to_csv("new.csv", sep = "\t")
 
     with open('dict_list.pkl', 'wb') as f:
          pickle.dump(dict_list, f)
