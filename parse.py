@@ -157,7 +157,7 @@ if __name__ == '__main__':
     pool = multiprocessing.Pool(8)
 
 
-    dict_list = pool.map(construct_features, range(100))
+    dict_list = pool.map(construct_features, range(len(submissions)))
     pool.close()
 
 
