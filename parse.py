@@ -105,14 +105,17 @@ def construct_features(idx): #index in submissions
 
         giver_subreddits_at_request = set()
         if giver_redditor:
+            try:
+                for author_comment in giver_redditor.comments.top('all'):
+                    if author_comment.subreddit.created_utc < submission.created_utc:
+                        giver_subreddits_at_request.add(author_comment.subreddit.display_name)
 
-            for author_comment in giver_redditor.comments.top('all'):
-                if author_comment.subreddit.created_utc < submission.created_utc:
-                    giver_subreddits_at_request.add(author_comment.subreddit.display_name)
-
-            for author_sub in giver_redditor.submissions.top('all'):
-                if author_sub.subreddit.created_utc < submission.created_utc:
-                    giver_subreddits_at_request.add(author_sub.subreddit.display_name)
+                for author_sub in giver_redditor.submissions.top('all'):
+                    if author_sub.subreddit.created_utc < submission.created_utc:
+                        giver_subreddits_at_request.add(author_sub.subreddit.display_name)
+            except:
+                d['giver_username'] = None # giver has deleted account
+                pass
 
 
         d['giver_subreddits_at_request'] = list(giver_subreddits_at_request)
