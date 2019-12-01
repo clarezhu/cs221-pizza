@@ -85,9 +85,10 @@ def construct_features(idx): #index in submissions
                     for info_line in info_lines:
                         if "**A**" in info_line:
                             info_split = info_line.split("|")
-                            giver_redditor_name = info_split[2][3:]
-                            giver_redditor = reddit.redditor(giver_redditor_name)
-                            d['giver_username'] = giver_redditor_name
+                            if info_split[2] != "Anonymous":
+                                giver_redditor_name = info_split[2][3:]
+                                giver_redditor = reddit.redditor(giver_redditor_name)
+                                d['giver_username'] = giver_redditor_name
 
             try:
                 if tl_comment.author.id == GiversBotId:
