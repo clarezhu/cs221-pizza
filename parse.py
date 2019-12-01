@@ -4,7 +4,7 @@ import datetime as dt
 import multiprocessing
 import praw
 from psaw import PushshiftAPI
-
+import pickle
 
 reddit = praw.Reddit(client_id='sIF2FculBPoFMg',
                      client_secret='ONlvY9ziXYVBhTeMvp1y4yP4Fg4',
@@ -20,12 +20,13 @@ with open('submissions.pkl','rb') as f:
 GiversBotId = 'np6d0'
 
 
+
 def getSubComments(comment, subComments, verbose=True):
     if isinstance(comment, praw.models.reddit.comment.Comment):
         subComments.append(comment)
     if not hasattr(comment, "replies"):
         replies = comment.comments()
-        if verbose: print("fetching (" + str(len(subComments)) + " comments fetched total)")
+        #if verbose: print("fetching (" + str(len(subComments)) + " comments fetched total)")
     else:
         replies = comment.replies
     for child in replies:
@@ -34,7 +35,7 @@ def getSubComments(comment, subComments, verbose=True):
 
 def construct_features(idx): #index in submissions
         submission = submissions[idx]
-        print ("STARTING...", idx)
+        #print("STARTING...")
         d = {}
 
         d['request_id'] = submission.id
@@ -109,7 +110,7 @@ def construct_features(idx): #index in submissions
                                     giver_redditor = reddit.redditor(giver_redditor_name)
                                     d['giver_username'] = giver_redditor_name
             except Exception as e:
-                print("EXCPETION", e)
+               # print("EXCPETION", e)
                 continue
 
 
@@ -142,9 +143,9 @@ def construct_features(idx): #index in submissions
 
         print(idx,submission.link_flair_text, d['giver_username'], d['request_url'])
 
-        if d['requester_received_pizza']:
-            if (d['giver_username'] == None):
-                print ("WHYYY")
+        #if d['requester_received_pizza']:
+        #    if (d['giver_username'] == None):
+                #print ("WHYYY")
 
 
         return d
@@ -154,3 +155,13 @@ assert(len(submissions) == 4754)
 pool = multiprocessing.Pool(8)
 dict_list = pool.map(construct_features, range(len(submissions)))
 pool.close()
+
+
+from pandas.io.json import json_normalize
+df = pd.DataFrame(json_normalize(dict_list))
+pd.to_csv("new.csv", sep = "\t")
+
+with open('dict_list.pkl', 'wb') as f:
+    pickle.dump(dict_list, f)
+
+
