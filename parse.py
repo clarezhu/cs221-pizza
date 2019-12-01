@@ -96,19 +96,32 @@ def construct_features(idx): #index in submissions
                         d['requester_num_pizza_related_comments_at_request'] = int(info_lines[2].split()[7])
 
 
+                # tl_text = tl_comment.body.lower()
+                # if "$fulfilled" in tl_text or "$confirm" in tl_text:
+                #     child_comments = []
+                #     getSubComments(tl_comment, child_comments)
+                #     for child_comment in child_comments:
+                #         if "I have changed the flair to ``In Progress``" in child_comment.body or "The transaction is now **CONFIRMED**" in child_comment.body:
+                #             info_lines = child_comment.body.splitlines()
+                #             for info_line in info_lines:
+                #                 if "**A**" in info_line:
+                #                     info_split = info_line.split("|")
+                #                     giver_redditor_name = info_split[2][3:]
+                #                     giver_redditor = reddit.redditor(giver_redditor_name)
+                #                     d['giver_username'] = giver_redditor_name
+
                 tl_text = tl_comment.body.lower()
-                if "$fulfilled" in tl_text or "$confirm" in tl_text:
-                    child_comments = []
-                    getSubComments(tl_comment, child_comments)
-                    for child_comment in child_comments:
-                        if "I have changed the flair to ``In Progress``" in child_comment.body or "The transaction is now **CONFIRMED**" in child_comment.body:
-                            info_lines = child_comment.body.splitlines()
-                            for info_line in info_lines:
-                                if "**A**" in info_line:
-                                    info_split = info_line.split("|")
-                                    giver_redditor_name = info_split[2][3:]
-                                    giver_redditor = reddit.redditor(giver_redditor_name)
-                                    d['giver_username'] = giver_redditor_name
+                child_comments = []
+                getSubComments(tl_comment, child_comments)
+                for child_comment in child_comments:
+                    if "**A**" in child_comment.body:
+                        info_lines = child_comment.body.splitlines()
+                        for info_line in info_lines:
+                            if "**A**" in info_line:
+                                info_split = info_line.split("|")
+                                giver_redditor_name = info_split[2][3:]
+                                giver_redditor = reddit.redditor(giver_redditor_name)
+                                d['giver_username'] = giver_redditor_name
             except Exception as e:
                # print("EXCPETION", e)
                 continue
@@ -163,5 +176,3 @@ pd.to_csv("new.csv", sep = "\t")
 
 with open('dict_list.pkl', 'wb') as f:
     pickle.dump(dict_list, f)
-
-
