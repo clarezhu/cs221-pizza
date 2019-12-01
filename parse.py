@@ -3,21 +3,10 @@ import pandas as pd
 import datetime as dt
 import multiprocessing
 import praw
+from pandas.io.json import json_normalize
 from psaw import PushshiftAPI
 import pickle
 
-reddit = praw.Reddit(client_id='sIF2FculBPoFMg',
-                     client_secret='ONlvY9ziXYVBhTeMvp1y4yP4Fg4',
-                     user_agent='billyisnotthegoat')
-
-api = PushshiftAPI(reddit)
-
-submissions = None
-with open('submissions.pkl','rb') as f:
-    submissions = pickle.load(f)
-
-
-GiversBotId = 'np6d0'
 
 
 
@@ -34,6 +23,7 @@ def getSubComments(comment, subComments, verbose=True):
 
 
 def construct_features(idx): #index in submissions
+        GiversBotId = 'np6d0'
         submission = submissions[idx]
         #print("STARTING...", idx)
         d = {}
@@ -149,13 +139,25 @@ def construct_features(idx): #index in submissions
 
 
 if __name__ == '__main__':
-    #assert(len(submissions) == 4754)
+    reddit = praw.Reddit(client_id='sIF2FculBPoFMg',
+                     client_secret='ONlvY9ziXYVBhTeMvp1y4yP4Fg4',
+                     user_agent='billyisnotthegoat')
+
+    api = PushshiftAPI(reddit)
+
+
+
+    submissions = None
+    with open('submissions.pkl','rb') as f:
+        submissions = pickle.load(f)
     pool = multiprocessing.Pool(8)
+
+
     dict_list = pool.map(construct_features, range(500))
     pool.close()
 
 
-    from pandas.io.json import json_normalize
+
     df = pd.DataFrame(json_normalize(dict_list))
     pd.to_csv("new.csv", sep = "\t")
 
