@@ -1,0 +1,1876 @@
+785 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/beosdm/request_i_have_mental_health_issues_an
+d_am_on_a/
+STARTING... 786 <ForkProcess(ForkPoolWorker-17, started daemon)>
+400 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgzwe2/request_3_kids_and_no_money_u
+ntil_friday/
+STARTING... 401 <ForkProcess(ForkPoolWorker-9, started daemon)>
+738 Fulfilled regula_et_vita https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bj80z5/request_wife_and_i_have
+_ate_about_10_pounds_of/
+STARTING... 739 <ForkProcess(ForkPoolWorker-16, started daemon)>
+641 Fulfilled permanent_throwaway https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bs6smf/request_just_need_
+to_get_through_to_payday/
+STARTING... 642 <ForkProcess(ForkPoolWorker-14, started daemon)>
+354 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ckt3lh/request_dont_get_paid_until_tomorrow_w
+ould_love/
+STARTING... 355 <ForkProcess(ForkPoolWorker-8, started daemon)>
+881 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b5gxj0/request_could_use_some_help_coping_wit
+h_corporate/
+STARTING... 882 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1071 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aq6cv2/request_my_wife_an
+d_i_brought_our_beautiful_son/
+STARTING... 1072 <ForkProcess(ForkPoolWorker-23, started daemon)>
+160 Fulfilled double0nemo https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d6l7ex/request_its_my_bday_andim_
+recovering_from_9/
+STARTING... 161 <ForkProcess(ForkPoolWorker-4, started daemon)>
+62 Fulfilled LumpyBatter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dgmjpf/request_lost_my_job_2_weeks
+_ago_ran_out_of_money/
+STARTING... 63 <ForkProcess(ForkPoolWorker-2, started daemon)>
+109 Fulfilled toomanydeployments https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dby7um/request_recovering_
+from_leg_surgery_and_cant_drive/
+STARTING... 110 <ForkProcess(ForkPoolWorker-3, started daemon)>
+1120 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/amhtvt/request_this_is_embarrassing/
+STARTING... 1121 <ForkProcess(ForkPoolWorker-24, started daemon)>
+975 Fulfilled msdos_sys https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ax0b3i/requestus_car_accident_yeste
+rday_and_could_use_a/
+STARTING... 976 <ForkProcess(ForkPoolWorker-21, started daemon)>
+258 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctqlrm/request_atlanta_ga_i_am_working_overni
+ght_and/
+STARTING... 259 <ForkProcess(ForkPoolWorker-6, started daemon)>
+547 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c1dxj9/request_broke_my_left_leg_th
+ree_days_ago_would/
+STARTING... 548 <ForkProcess(ForkPoolWorker-12, started daemon)>
+17 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dmop1x/request_just_gave_blood_for_the_first_t
+ime_and/
+STARTING... 18 <ForkProcess(ForkPoolWorker-1, started daemon)>
+931 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b1638b/request_ill_trade_you_a_poem_for_a_piz
+za_and_in/
+STARTING... 932 <ForkProcess(ForkPoolWorker-20, started daemon)>
+207 Fulfilled potatotron23 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d0fnqq/request_were_broke_and_al
+most_out_of_food_would/
+STARTING... 208 <ForkProcess(ForkPoolWorker-5, started daemon)>
+18 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dmmwbo/request/
+STARTING... 19 <ForkProcess(ForkPoolWorker-1, started daemon)>
+355 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cksm4h/request_dealing_with_a_negative_a
+ccount_and_lack/
+STARTING... 356 <ForkProcess(ForkPoolWorker-8, started daemon)>
+1022 Fulfilled iwillspeaknoevil https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at8qva/request_im_living_in
+_my_car_after_leaving_an/
+STARTING... 1023 <ForkProcess(ForkPoolWorker-22, started daemon)>
+687 Fulfilled TheSillyLion https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnvkm6/request_feeling_sad_haven
+t_gone_to_work_all_week/
+STARTING... 688 <ForkProcess(ForkPoolWorker-15, started daemon)>
+304 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnvgrk/request_broke_to_the_end_of_t
+he_month/
+STARTING... 305 <ForkProcess(ForkPoolWorker-7, started daemon)>
+739 Fulfilled rattrocks https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bj7hf8/request_really_need_the_help
+/
+STARTING... 740 <ForkProcess(ForkPoolWorker-16, started daemon)>
+451 Fulfilled Sparkasm https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbv493/request_pizza_for_a_uk_couple
+/
+STARTING... 452 <ForkProcess(ForkPoolWorker-10, started daemon)>
+496 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c738za/requestin_the_pro
+cess_of_moving_just_spent_all_of/
+STARTING... 497 <ForkProcess(ForkPoolWorker-11, started daemon)>
+598 Fulfilled davy_jones_locket https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bw9qha/request_got_let_go_u
+nexpectedly_on_friday_afraid/
+STARTING... 599 <ForkProcess(ForkPoolWorker-13, started daemon)>
+642 Fulfilled supapandaninjas https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bs5mfw/request_job_start_dela
+yed_an_extra_week/
+STARTING... 643 <ForkProcess(ForkPoolWorker-14, started daemon)>
+161 Fulfilled zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d62w6b/request_whole_house_got_kicked
+_out_and_is_trying/
+STARTING... 162 <ForkProcess(ForkPoolWorker-4, started daemon)>
+110 Fulfilled minimum_ https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dbruz9/request_i_am_so_stressed_out_
+im_broke_left_alone/
+STARTING... 111 <ForkProcess(ForkPoolWorker-3, started daemon)>
+786 Fulfilled Not_Mr_Manager https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/beogi9/request_left_my_lunch_a
+t_home_work_has_me_unable/
+STARTING... 787 <ForkProcess(ForkPoolWorker-17, started daemon)>
+882 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b5ejxe/request_if_anyone_c
+ould_help_tonight_that_would/
+STARTING... 883 <ForkProcess(ForkPoolWorker-19, started daemon)>
+401 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgy69c/request_sick_birthday_pizza/
+STARTING... 402 <ForkProcess(ForkPoolWorker-9, started daemon)>
+548 Fulfilled tarlton24 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c1aibr/request_the_pizza_gods_turne
+d_me_down_last_time/
+STARTING... 549 <ForkProcess(ForkPoolWorker-12, started daemon)>
+19 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dmm3de/request_a_thank_you_for_my_parents_in_g
+er/
+STARTING... 20 <ForkProcess(ForkPoolWorker-1, started daemon)>
+836 Fulfilled ThatUnoriginalGuy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ba0a5u/request_im_not_reall
+y_trying_to_be_too_picky_15/
+STARTING... 837 <ForkProcess(ForkPoolWorker-18, started daemon)>
+976 Fulfilled h974974 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ax08lr/request_feeling_pretty_low_lat
+ely_the_urge_to_eat/
+STARTING... 977 <ForkProcess(ForkPoolWorker-21, started daemon)>
+1072 Fulfilled ELFAHBEHT_SOOP https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aq25wl/request_had_a_few_inte
+rviews_today_but_jobless/
+STARTING... 1073 <ForkProcess(ForkPoolWorker-23, started daemon)>
+63 Fulfilled blindeey https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg9iuq/request_praying_for_a_delivery
+_tonight_ive_been/
+STARTING... 64 <ForkProcess(ForkPoolWorker-2, started daemon)>
+305 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnv7yw/request_worked_like_a_dog_at_my_jobdud
+e_dont_got/
+STARTING... 306 <ForkProcess(ForkPoolWorker-7, started daemon)>
+452 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbtgcu/request_car_broke_down_last_week_dont_
+have_the/
+STARTING... 453 <ForkProcess(ForkPoolWorker-10, started daemon)>
+259 Fulfilled Elnateo https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctqkvu/request_still_looking_for_work
+_and_could_use_some/
+STARTING... 260 <ForkProcess(ForkPoolWorker-6, started daemon)>
+208 Fulfilled green_goblin_z https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d0ecrw/request_can_i_have_a_pi
+zza/
+STARTING... 209 <ForkProcess(ForkPoolWorker-5, started daemon)>
+932 Fulfilled bkindabay https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b15yom/request_empty/
+STARTING... 933 <ForkProcess(ForkPoolWorker-20, started daemon)>
+599 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bw5da4/request_paid_off_all_the_bil
+ls_but_left_with_an/
+STARTING... 600 <ForkProcess(ForkPoolWorker-13, started daemon)>
+1121 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/amh7at/request_girlfriend
+_and_i_had_a_long_week_and_an/
+STARTING... 1122 <ForkProcess(ForkPoolWorker-24, started daemon)>
+688 Fulfilled who-are-we-anyway https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnspjf/request_for_family_o
+f_four_two_adults_and_two/
+STARTING... 689 <ForkProcess(ForkPoolWorker-15, started daemon)>
+497 Fulfilled izadraidz https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c6awkp/request_hit_a_rough_patch_an
+d_6_months_pregnant/
+STARTING... 498 <ForkProcess(ForkPoolWorker-11, started daemon)>
+883 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b5dqwm/request_i_could_use_some_pizza_right_n
+ow/
+STARTING... 884 <ForkProcess(ForkPoolWorker-19, started daemon)>
+549 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c18kjb/request_my_bro_died_last_week_and_i_co
+uld_do_with/
+STARTING... 550 <ForkProcess(ForkPoolWorker-12, started daemon)>
+20 Fulfilled morturio https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dmm063/request_please_send_me_depress
+ed_pizza/
+STARTING... 21 <ForkProcess(ForkPoolWorker-1, started daemon)>
+356 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ckod5j/request_been_ill_for_3_days
+_really_dont_want_to/
+STARTING... 357 <ForkProcess(ForkPoolWorker-8, started daemon)>
+1023 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at8qo2/request_i_would_li
+ke_a_pizza_please/
+STARTING... 1024 <ForkProcess(ForkPoolWorker-22, started daemon)>
+453 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbq79u/request_recently_broke_up_with_my_girl
+friend/
+STARTING... 454 <ForkProcess(ForkPoolWorker-10, started daemon)>
+740 Fulfilled Outsideshooter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/biwpp9/request_trying_to_make_
+it_to_the_1st/
+STARTING... 741 <ForkProcess(ForkPoolWorker-16, started daemon)>
+306 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnv2go/request_moving_in_the_morning_no_groce
+ries_in_the/
+STARTING... 307 <ForkProcess(ForkPoolWorker-7, started daemon)>
+402 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgy4cl/request_unexpected_co
+st_and_now_broke/
+STARTING... 403 <ForkProcess(ForkPoolWorker-9, started daemon)>
+1073 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apwawc/request_got_a_new_job_things_are_comi
+ng_up_but/
+STARTING... 1074 <ForkProcess(ForkPoolWorker-23, started daemon)>
+111 Fulfilled GSKermit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dblcx4/request_college_student_broke
+_and_hungry_shocker/
+STARTING... 112 <ForkProcess(ForkPoolWorker-3, started daemon)>
+357 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ckhxn1/request_payday_is_tomorrow_night_at_mi
+dnight_and/
+STARTING... 358 <ForkProcess(ForkPoolWorker-8, started daemon)>
+162 Fulfilled LumpyBatter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d62mgx/request_wtb_a_hot_meal_tha
+t_isnt_rice/
+STARTING... 163 <ForkProcess(ForkPoolWorker-4, started daemon)>
+933 Fulfilled Elphling https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0s29m/request_paid_off_debts_at_las
+t_but_had_enough_of/
+STARTING... 934 <ForkProcess(ForkPoolWorker-20, started daemon)>
+1122 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/amg1bj/request_stuck_on_a_mental_health_ward
+_and_been/
+STARTING... 1123 <ForkProcess(ForkPoolWorker-24, started daemon)>
+64 Fulfilled jchildr https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg7zf4/request_got_fired_a_few_days_ag
+o_broke_and_hungry/
+STARTING... 65 <ForkProcess(ForkPoolWorker-2, started daemon)>
+260 Fulfilled jwilla92 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctpdj4/request_hey_there_im_on_week_
+7_of_camping_and_im/
+STARTING... 261 <ForkProcess(ForkPoolWorker-6, started daemon)>
+643 Fulfilled jwinans56 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/brw6km/request_i_havent_eaten_all_d
+ay_and_i_dont_get/
+STARTING... 644 <ForkProcess(ForkPoolWorker-14, started daemon)>
+837 Fulfilled Cecil4029 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b9zza3/request_wont_have_money_from
+_uber_for_a_few_days/
+STARTING... 838 <ForkProcess(ForkPoolWorker-18, started daemon)>
+787 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/beoccu/request_unemploye
+d_and_broke/
+STARTING... 788 <ForkProcess(ForkPoolWorker-17, started daemon)>
+977 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awzzav/requestus_payday_
+is_on_thursday_could_use_a_pizza/
+STARTING... 978 <ForkProcess(ForkPoolWorker-21, started daemon)>
+689 Fulfilled who-are-we-anyway https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnqi2l/request_requesting_s
+ome_pizza_for_dinner_two/
+STARTING... 690 <ForkProcess(ForkPoolWorker-15, started daemon)>
+21 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dmhdje/request_im_recovering_from_c
+ervical_fusion/
+STARTING... 22 <ForkProcess(ForkPoolWorker-1, started daemon)>
+600 Fulfilled zoeybird0075 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bw2kez/request_no_money_until_fr
+iday_havent_ate_today/
+STARTING... 601 <ForkProcess(ForkPoolWorker-13, started daemon)>
+112 Fulfilled pepito1101 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dbkvhr/request_typical_story_i_fou
+nd_myself_low_on_money/
+STARTING... 113 <ForkProcess(ForkPoolWorker-3, started daemon)>
+550 Fulfilled HolidayAardvark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c123p8/request_in_need_after_
+a_rough_time/
+STARTING... 551 <ForkProcess(ForkPoolWorker-12, started daemon)>
+209 Fulfilled Bad_Luck_Bert https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czr5dy/request_want_to_celebrat
+e_new_job/
+STARTING... 210 <ForkProcess(ForkPoolWorker-5, started daemon)>
+741 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/biw9bv/request_hungry_dude_w
+ith_annoying_cats/
+STARTING... 742 <ForkProcess(ForkPoolWorker-16, started daemon)>
+454 Fulfilled soysaucedelight https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbojlk/request_family_of_4_lo
+w_on_groceries_until_next/
+STARTING... 455 <ForkProcess(ForkPoolWorker-10, started daemon)>
+884 None procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b5bauo/request_canada_would_lov
+e_some_comfort_food/
+STARTING... 885 <ForkProcess(ForkPoolWorker-19, started daemon)>
+690 Fulfilled explodingicecreampi https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnpx8l/request_a_little_h
+elp_to_make_it_to_monday/
+STARTING... 691 <ForkProcess(ForkPoolWorker-15, started daemon)>
+307 Fulfilled RaggaJack https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnsto9/request_husband_was_recently
+_diagnosed_with_a/
+STARTING... 308 <ForkProcess(ForkPoolWorker-7, started daemon)>
+644 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/brt15s/request_money_is_tight_strong_cra
+ving_for_the/
+STARTING... 645 <ForkProcess(ForkPoolWorker-14, started daemon)>
+1024 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at76tc/request_just_got
+_fired_from_my_job_and_am_goimg/
+STARTING... 1025 <ForkProcess(ForkPoolWorker-22, started daemon)>
+978 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awxtr3/request_poor_student_craves_ve_cheesy_
+goodness/
+STARTING... 979 <ForkProcess(ForkPoolWorker-21, started daemon)>
+403 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgt74j/request_out_of_work
+_and_stuck_in_bed/
+STARTING... 404 <ForkProcess(ForkPoolWorker-9, started daemon)>
+934 Fulfilled bluepand4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0rbzx/request_calgary_canada_gots_
+me_a_carrot/
+STARTING... 935 <ForkProcess(ForkPoolWorker-20, started daemon)>
+498 Fulfilled IfIKnewThen https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c627ij/request_used_all_of_my_sav
+ings_to_move_to_the/
+STARTING... 499 <ForkProcess(ForkPoolWorker-11, started daemon)>
+1025 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at4l9t/request_visiting_mum_and_step_dad_bac
+k_in_the_uk/
+STARTING... 1026 <ForkProcess(ForkPoolWorker-22, started daemon)>
+838 Fulfilled madeanaccount4dis https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b9rvf3/request_dont_get_pai
+d_till_monday_havent_eaten/
+STARTING... 839 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1074 Fulfilled horribleplayer511 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aptrje/request_pantry_look
+ing_barewould_love_to_surprise/
+STARTING... 1075 <ForkProcess(ForkPoolWorker-23, started daemon)>
+163 Fulfilled sailor_mouth https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d5ojfe/request_just_this_cute_gi
+rl_an_empty_bank_account/
+STARTING... 164 <ForkProcess(ForkPoolWorker-4, started daemon)>
+65 Fulfilled 40ozKilla https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg655i/request_12_hours_and_only_had
+_a_granola_bar/
+STARTING... 66 <ForkProcess(ForkPoolWorker-2, started daemon)>
+261 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctnbww/request_a_pizza_for_a_sunbu
+rnt_boy/
+STARTING... 262 <ForkProcess(ForkPoolWorker-6, started daemon)>
+788 Fulfilled squunchkin https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/beflsm/request_i_have_2_in_my_acco
+unt/
+STARTING... 789 <ForkProcess(ForkPoolWorker-17, started daemon)>
+22 Fulfilled discoool https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm9xhk/request_oh_man_im_so_tired_of_
+canned_soup/
+STARTING... 23 <ForkProcess(ForkPoolWorker-1, started daemon)>
+1123 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/am8dfp/request_childfree_
+for_the_first_time_in_months/
+STARTING... 1124 <ForkProcess(ForkPoolWorker-24, started daemon)>
+455 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cblj4i/request_could_use_a_za_to_get_over_hum
+p_day/
+STARTING... 456 <ForkProcess(ForkPoolWorker-10, started daemon)>
+113 Fulfilled Rebe11e https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dbf297/request_pizza_for_someone_stru
+ggling_with_money/
+STARTING... 114 <ForkProcess(ForkPoolWorker-3, started daemon)>
+551 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c0z4mo/request_starving_until_my_fi
+rst_paycheck/
+STARTING... 552 <ForkProcess(ForkPoolWorker-12, started daemon)>
+358 Fulfilled codithennie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ckfvn3/request_just_finished_movi
+ng_apartment_have_no/
+STARTING... 359 <ForkProcess(ForkPoolWorker-8, started daemon)>
+885 Fulfilled BombayPapi https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b5486r/requesta_first_time_for_eve
+rything/
+STARTING... 886 <ForkProcess(ForkPoolWorker-19, started daemon)>
+210 Fulfilled blueblewbLu3 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czlvpn/request_want_to_surprise_
+bf_with_pizza_flat_broke/
+STARTING... 211 <ForkProcess(ForkPoolWorker-5, started daemon)>
+164 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d5oatf/request_my_roommate_i_are_studying_for
+_a_test/
+STARTING... 165 <ForkProcess(ForkPoolWorker-4, started daemon)>
+691 Fulfilled TheSillyLion https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnkify/request_broke_college_stu
+dent_having_a_hard_time/
+STARTING... 692 <ForkProcess(ForkPoolWorker-15, started daemon)>
+789 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/beerw7/request_just_finished_finals_would_lov
+e_to/
+STARTING... 790 <ForkProcess(ForkPoolWorker-17, started daemon)>
+601 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bw082n/request_first_tim
+e_apartment_for_a_young_married/
+STARTING... 602 <ForkProcess(ForkPoolWorker-13, started daemon)>
+839 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b9jx8e/request_pregnant_lady_wants
+_some_pizza_please/
+STARTING... 840 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1075 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/app4de/request_just_got_passed_over_for
+_a_job/
+STARTING... 1076 <ForkProcess(ForkPoolWorker-23, started daemon)>
+456 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbjhic/request_in_a_time_of_transition_in_my_
+life_would/
+STARTING... 457 <ForkProcess(ForkPoolWorker-10, started daemon)>
+308 Fulfilled xeroxbulletgirl https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnov3q/request_started_a_job_
+finallyboth_me_and_the_so/
+STARTING... 309 <ForkProcess(ForkPoolWorker-7, started daemon)>
+742 Fulfilled VegasOrValhalla https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/biqzem/request_my_partner_is_
+having_a_tough_time_at_work/
+STARTING... 743 <ForkProcess(ForkPoolWorker-16, started daemon)>
+645 Fulfilled khullen https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/brru7r/request_dont_want_to_graduate_
+on_an_empty_stomach/
+STARTING... 646 <ForkProcess(ForkPoolWorker-14, started daemon)>
+404 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgi336/request_anniversary_gone_br
+oke/
+STARTING... 405 <ForkProcess(ForkPoolWorker-9, started daemon)>
+211 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czfes9/request_no_money_siblings_are_hungry/
+STARTING... 212 <ForkProcess(ForkPoolWorker-5, started daemon)>
+1124 Fulfilled audie224 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/am6buz/request_broke_jobless_and_hu
+ngry/
+STARTING... 1125 <ForkProcess(ForkPoolWorker-24, started daemon)>
+1125 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/am3geu/request_i_like_pizza_and_would_love_t
+o_have_some/
+STARTING... 1126 <ForkProcess(ForkPoolWorker-24, started daemon)>
+935 Fulfilled CosmicContusion https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0pjmn/request_all_ive_got_is
+_rice_and_peanut_butter/
+STARTING... 936 <ForkProcess(ForkPoolWorker-20, started daemon)>
+499 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5s3kf/request_no_money_
+till_july_and_empty_fridge/
+STARTING... 500 <ForkProcess(ForkPoolWorker-11, started daemon)>
+262 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctmufy/request_struggling_until_pa
+yday_and_need_some/
+STARTING... 263 <ForkProcess(ForkPoolWorker-6, started daemon)>
+1026 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at40u5/request_wages_ga
+rnished_and_hungry/
+STARTING... 1027 <ForkProcess(ForkPoolWorker-22, started daemon)>
+66 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg63w6/requestpoorer_than
+_a_hobo_in_a_barrel/
+STARTING... 67 <ForkProcess(ForkPoolWorker-2, started daemon)>
+114 Fulfilled NotSureAboutTh1s https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dbdsp2/request_pizza_me_plea
+se_could_use_a_boost_just_now/
+STARTING... 115 <ForkProcess(ForkPoolWorker-3, started daemon)>
+23 Fulfilled drivewithhitler https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm9r8n/request_unemployed_and_
+out_of_fish_sticks_ration/
+STARTING... 24 <ForkProcess(ForkPoolWorker-1, started daemon)>
+212 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czfcvi/requestpaid_the_rent_and_have_no_money
+_left/
+STARTING... 213 <ForkProcess(ForkPoolWorker-5, started daemon)>
+165 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d5kucx/request_been_stuck_living_at_my_brothe
+rs_while/
+STARTING... 166 <ForkProcess(ForkPoolWorker-4, started daemon)>
+979 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awwf0a/request_work_underp
+aid_me_and_when_i_asked_about/
+STARTING... 980 <ForkProcess(ForkPoolWorker-21, started daemon)>
+840 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b9fdz4/request_its_my_birthday_im_a_quarter_o
+f_a_century/
+STARTING... 841 <ForkProcess(ForkPoolWorker-18, started daemon)>
+457 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbi363/request_just_moved_into_a_new_apartmen
+t_and_wont/
+STARTING... 458 <ForkProcess(ForkPoolWorker-10, started daemon)>
+552 Fulfilled lost_in_portland https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c0ommi/request_poor_film_stu
+dent_with_9_in_the_bank/
+STARTING... 553 <ForkProcess(ForkPoolWorker-12, started daemon)>
+743 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/biqww9/request_i_start_my_new_job_wednesday_a
+nd_a_pizza/
+STARTING... 744 <ForkProcess(ForkPoolWorker-16, started daemon)>
+1076 Fulfilled yourearealcunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apon9o/request_first_timer_an
+d_desperately_would_like_to/
+STARTING... 1077 <ForkProcess(ForkPoolWorker-23, started daemon)>
+115 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/db41sf/request_no_food_or_money_for_a_few_day
+s_fort/
+STARTING... 116 <ForkProcess(ForkPoolWorker-3, started daemon)>
+886 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b520ag/request_could_anyon
+e_help_my_kids_and_i_with_a/
+STARTING... 887 <ForkProcess(ForkPoolWorker-19, started daemon)>
+692 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnk0d7/request_a_pizza_for_someone
+_working_a_14_hour/
+STARTING... 693 <ForkProcess(ForkPoolWorker-15, started daemon)>
+359 Fulfilled Tyler8245 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ckam07/request_out_of_food_until_to
+morrow_family_member/
+STARTING... 360 <ForkProcess(ForkPoolWorker-8, started daemon)>
+602 Fulfilled KelcyHammer https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bvzsfj/request_uk_a_little_pizza_
+for_me_and_my_son/
+STARTING... 603 <ForkProcess(ForkPoolWorker-13, started daemon)>
+1126 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/am24sg/request_home_alone_on_a_cold_day/
+STARTING... 1127 <ForkProcess(ForkPoolWorker-24, started daemon)>
+646 Fulfilled shamwowslapchop https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/brfkrc/request_help_me_thank_
+my_dh_for_working_so_hard/
+STARTING... 647 <ForkProcess(ForkPoolWorker-14, started daemon)>
+405 Fulfilled funkinatrix https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cgejpy/request_just_rescued_daugh
+ter_and_granddaughter/
+STARTING... 406 <ForkProcess(ForkPoolWorker-9, started daemon)>
+790 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bedtbw/request_honestly_im
+_just_having_a_really_hard/
+STARTING... 791 <ForkProcess(ForkPoolWorker-17, started daemon)>
+67 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg54vy/request_my_sisterinlaws_husband_suddenl
+y_passed/
+STARTING... 68 <ForkProcess(ForkPoolWorker-2, started daemon)>
+309 Fulfilled BR_MA_TX_FL_NV https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnou2b/request_murphys_law_a_w
+eek_best_ended_with_the/
+STARTING... 310 <ForkProcess(ForkPoolWorker-7, started daemon)>
+744 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bikkcn/request_im_a_little_tired_of_slow_cook
+er_soups/
+STARTING... 745 <ForkProcess(ForkPoolWorker-16, started daemon)>
+1027 Fulfilled AllForOne21 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/at3snt/request_rough_week_pizza_
+could_bring_a_smile/
+STARTING... 1028 <ForkProcess(ForkPoolWorker-22, started daemon)>
+213 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czd8jp/request_a_change_of_pace_from_kasha_an
+d_rice/
+STARTING... 214 <ForkProcess(ForkPoolWorker-5, started daemon)>
+166 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d5bfoz/request_i_finally_got_a_freakin_job/
+STARTING... 167 <ForkProcess(ForkPoolWorker-4, started daemon)>
+936 Fulfilled Manu09 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0li78/request_my_toddler_was_just_adm
+itted_to_hospital/
+STARTING... 937 <ForkProcess(ForkPoolWorker-20, started daemon)>
+553 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c0nhw9/request_can_trade_bad_jokes_
+and_puns_for_pizza/
+STARTING... 554 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1127 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alzxoc/request_a_dude_having_a_really_rough_
+time_at_the/
+STARTING... 1128 <ForkProcess(ForkPoolWorker-24, started daemon)>
+116 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/db2cdb/request_austin_tx_feeling_sick_working
+_and_have/
+STARTING... 117 <ForkProcess(ForkPoolWorker-3, started daemon)>
+841 Fulfilled definitely-not-dum https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b914b6/request_been_homele
+ss_and_building_back_up_from/
+STARTING... 842 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1077 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apmifj/request_just_got_denied_health_benefi
+ts_still_no/
+STARTING... 1078 <ForkProcess(ForkPoolWorker-23, started daemon)>
+458 Fulfilled DonnieEstacado https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cbd3f8/request_very_low_on_mon
+ey_until_saturday_and/
+STARTING... 459 <ForkProcess(ForkPoolWorker-10, started daemon)>
+24 Fulfilled Evilevilcow https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm8yi3/request_college_student_who
+_cant_afford_anything/
+STARTING... 25 <ForkProcess(ForkPoolWorker-1, started daemon)>
+887 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b51zjx/request_brother_left_and_now_home_alon
+e_sad/
+STARTING... 888 <ForkProcess(ForkPoolWorker-19, started daemon)>
+360 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ck4nye/request_first_time_posting_only_expire
+d_can_food/
+STARTING... 361 <ForkProcess(ForkPoolWorker-8, started daemon)>
+263 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctlx69/request_broke_until_saturday_
+tired_of_eating/
+STARTING... 264 <ForkProcess(ForkPoolWorker-6, started daemon)>
+980 Fulfilled buskirkgirl2 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awvq56/request_us_nothings_wrong
+_i_just_want_pizza/
+STARTING... 981 <ForkProcess(ForkPoolWorker-21, started daemon)>
+500 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5quep/request_completel
+y_broke_until_midnight_tonight/
+STARTING... 501 <ForkProcess(ForkPoolWorker-11, started daemon)>
+647 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/brazac/request_struggling_parent_home_fo
+r_the_day/
+STARTING... 648 <ForkProcess(ForkPoolWorker-14, started daemon)>
+937 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0ia44/request_partner_and_i_can_barely_make_
+rent_bills/
+STARTING... 938 <ForkProcess(ForkPoolWorker-20, started daemon)>
+745 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi50vr/request_out_of_money_could_use_some_fo
+od/
+STARTING... 746 <ForkProcess(ForkPoolWorker-16, started daemon)>
+68 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg4zh9/requesti_could_really_use_a_
+pizza_if_anyone_is/
+STARTING... 69 <ForkProcess(ForkPoolWorker-2, started daemon)>
+842 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8rz17/request_just_movedstarted_a_new_job/
+STARTING... 843 <ForkProcess(ForkPoolWorker-18, started daemon)>
+310 Fulfilled TheCreamyNinja https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnoehj/request_forgot_my_lunch
+_at_home_and_only_have_098/
+STARTING... 311 <ForkProcess(ForkPoolWorker-7, started daemon)>
+554 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c0ndj2/request_does_this_sub_even_w
+ork/
+STARTING... 555 <ForkProcess(ForkPoolWorker-12, started daemon)>
+791 Fulfilled MethodicalJosh https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/becqbe/request_just_want_some_
+pizza_pregnant_and_grumpy/
+STARTING... 792 <ForkProcess(ForkPoolWorker-17, started daemon)>
+1128 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alzpg0/request_im_getting_paid_in_3_days_but
+_havent/
+STARTING... 1129 <ForkProcess(ForkPoolWorker-24, started daemon)>
+603 Fulfilled KalN7 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bvtqmy/request_a_delivery_of_your_desir
+e_and_in_return_a/
+STARTING... 604 <ForkProcess(ForkPoolWorker-13, started daemon)>
+167 Fulfilled omnitempus https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d57fm7/request_going_through_a_tou
+gh_time_no_money_for/
+STARTING... 168 <ForkProcess(ForkPoolWorker-4, started daemon)>
+693 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bnj35w/request_i_lost_my_card_and_i_
+am_out_of_groceries/
+STARTING... 694 <ForkProcess(ForkPoolWorker-15, started daemon)>
+981 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awuj63/requestus_hey_guys_i_could_sure_use_so
+me_pizza_rn/
+STARTING... 982 <ForkProcess(ForkPoolWorker-21, started daemon)>
+214 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/czd3dt/request_trying_to_enjoy_my_
+day_off/
+STARTING... 215 <ForkProcess(ForkPoolWorker-5, started daemon)>
+1028 Fulfilled KalN7 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asw5nl/request_family_of_four_would_lo
+ve_a_dominos_pizza/
+STARTING... 1029 <ForkProcess(ForkPoolWorker-22, started daemon)>
+69 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg3d0w/request_dealing_with_a_lot_right_now_co
+uld_really/
+STARTING... 70 <ForkProcess(ForkPoolWorker-2, started daemon)>
+361 Fulfilled Plinky9 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjzfix/request_i_was_helped_out_by_a_
+kind_soul_here_late/
+STARTING... 362 <ForkProcess(ForkPoolWorker-8, started daemon)>
+888 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b51mv8/request_struggling_to
+_find_food_this_week_looking/
+STARTING... 889 <ForkProcess(ForkPoolWorker-19, started daemon)>
+406 Fulfilled kamaria https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cg7142/request_topramenhotpockets_doe
+s_not_taste_like/
+STARTING... 407 <ForkProcess(ForkPoolWorker-9, started daemon)>
+746 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi4zea/request_incredibly_depressed_lonely_an
+d_tired_of/
+STARTING... 747 <ForkProcess(ForkPoolWorker-16, started daemon)>
+117 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/db12gw/request_no_story/
+STARTING... 118 <ForkProcess(ForkPoolWorker-3, started daemon)>
+843 Fulfilled mmmmmcheesy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8rsmz/request_moving_anxiety/
+STARTING... 844 <ForkProcess(ForkPoolWorker-18, started daemon)>
+459 Fulfilled Guard5002 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cba1qd/requestjust_broke_until_payd
+ay_and_have_been/
+STARTING... 460 <ForkProcess(ForkPoolWorker-10, started daemon)>
+555 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c071xd/request_in_need_of_some_kindness/
+STARTING... 556 <ForkProcess(ForkPoolWorker-12, started daemon)>
+264 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ctlfnr/request_recovering_from_bac
+k_surgery_unable_to/
+STARTING... 265 <ForkProcess(ForkPoolWorker-6, started daemon)>
+1129 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alxy5f/request_broke_college_student_in_sub_
+zero_temps/
+STARTING... 1130 <ForkProcess(ForkPoolWorker-24, started daemon)>
+362 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjza5y/request_moneys_a_little_low_after_a_fa
+mily_trip/
+STARTING... 363 <ForkProcess(ForkPoolWorker-8, started daemon)>
+648 Fulfilled zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/br7yuo/request_a_lovely_pizza_pie_for
+_a_poor_american/
+STARTING... 649 <ForkProcess(ForkPoolWorker-14, started daemon)>
+938 Fulfilled CosmicContusion https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0gk48/request_birthday_was_s
+aturday_and_payday_is_friday/
+STARTING... 939 <ForkProcess(ForkPoolWorker-20, started daemon)>
+25 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm8tgd/request_just_reall
+y_craving_some_pizza/
+STARTING... 26 <ForkProcess(ForkPoolWorker-1, started daemon)>
+501 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5qsys/request_22_yr_old
+_who_just_started_working_full/
+STARTING... 502 <ForkProcess(ForkPoolWorker-11, started daemon)>
+982 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awpq6t/request_asking_for_a_surprise_date_nig
+ht_pizza/
+STARTING... 983 <ForkProcess(ForkPoolWorker-21, started daemon)>
+1078 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apm5zf/request_broke_unti
+l_payday_with_a_new_job/
+STARTING... 1079 <ForkProcess(ForkPoolWorker-23, started daemon)>
+792 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bec5dj/request_cant_feed_myself_in
+_the_2_weeks_before/
+STARTING... 793 <ForkProcess(ForkPoolWorker-17, started daemon)>
+311 Fulfilled NeedsMoreDragonsBro https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnl9kb/request_could_real
+ly_use_a_pickmeup/
+STARTING... 312 <ForkProcess(ForkPoolWorker-7, started daemon)>
+168 Fulfilled sh_nem https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d53u4o/request_would_love_a_celebrator
+y_pizza/
+STARTING... 169 <ForkProcess(ForkPoolWorker-4, started daemon)>
+215 Fulfilled Plytie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cz07z5/request_broke_20_something_yo_l
+ooking_for_a_pizza/
+STARTING... 216 <ForkProcess(ForkPoolWorker-5, started daemon)>
+889 Fulfilled Mikris23 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4yb3k/request_college_kid_requestin
+g_dominoes/
+STARTING... 890 <ForkProcess(ForkPoolWorker-19, started daemon)>
+118 Fulfilled unclesam4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/day9qb/request_pizza_for_me_please/
+STARTING... 119 <ForkProcess(ForkPoolWorker-3, started daemon)>
+70 Fulfilled morturio https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg2nig/request_just_about_out_of_mone
+y_not_having_to/
+STARTING... 71 <ForkProcess(ForkPoolWorker-2, started daemon)>
+556 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c03w6u/request_no_food_until_friday
+/
+STARTING... 557 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1029 Closed KalN7 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asvlpf/request_trying_to_survive_the_mont
+h_after_getting/
+STARTING... 1030 <ForkProcess(ForkPoolWorker-22, started daemon)>
+694 Fulfilled RainbowShane https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bn7pvf/request_broke_starving_an
+d_going_through_a_break/
+STARTING... 695 <ForkProcess(ForkPoolWorker-15, started daemon)>
+363 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjytcg/request_get_paid_tomorrow_at_midnight_
+trying_to/
+STARTING... 364 <ForkProcess(ForkPoolWorker-8, started daemon)>
+265 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cthdqu/request_graduate_whos_depressed_whilst
+_job/
+STARTING... 266 <ForkProcess(ForkPoolWorker-6, started daemon)>
+983 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awpd2h/request_for_my_starving_little_brother
+_away_at/
+STARTING... 984 <ForkProcess(ForkPoolWorker-21, started daemon)>
+604 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bvsa63/request_girlfrien
+d_broke_up_with_me_uncle_passed/
+STARTING... 605 <ForkProcess(ForkPoolWorker-13, started daemon)>
+793 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bec3ld/request_just_paid_the_last_of_my_
+parole_fees/
+STARTING... 794 <ForkProcess(ForkPoolWorker-17, started daemon)>
+169 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d53fgm/request_broke_for_the_week_and_running
+_low_on_food/
+STARTING... 170 <ForkProcess(ForkPoolWorker-4, started daemon)>
+649 Fulfilled 00jjinbbang https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/br4fdf/request_my_hand_is_broken_
+stuck_without_food_for/
+STARTING... 650 <ForkProcess(ForkPoolWorker-14, started daemon)>
+502 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5qkau/request_out_of_money_in_the_
+most_expensive_city/
+STARTING... 503 <ForkProcess(ForkPoolWorker-11, started daemon)>
+407 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cg6tb1/request_just_woul
+d_love_to_have_a_pizza_tonight/
+STARTING... 408 <ForkProcess(ForkPoolWorker-9, started daemon)>
+844 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8p4k8/request_dont_have_a_great_e
+xcuse_just_partied_too/
+STARTING... 845 <ForkProcess(ForkPoolWorker-18, started daemon)>
+26 Fulfilled Cmr017 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm71cz/request_no_paycheck_and_can_bare
+ly_walk_austin_tx/
+STARTING... 27 <ForkProcess(ForkPoolWorker-1, started daemon)>
+890 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4x259/request_uk_student_just_wondering_if_a
+nyone_can/
+STARTING... 891 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1130 Fulfilled YoureARealCunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alxfab/request_could_use_help
+_with_dinner_after_a_bad/
+STARTING... 1131 <ForkProcess(ForkPoolWorker-24, started daemon)>
+266 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ct8lfb/request_internet_repair_guy_has_been_a
+t_my_apt/
+STARTING... 267 <ForkProcess(ForkPoolWorker-6, started daemon)>
+557 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bzy5an/request_low_on_income/
+STARTING... 558 <ForkProcess(ForkPoolWorker-12, started daemon)>
+747 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi4ad6/request_looking_to_trade_pizz
+as_you_buy_mine/
+STARTING... 748 <ForkProcess(ForkPoolWorker-16, started daemon)>
+939 Fulfilled AxlikeMike https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0g004/request_wont_bore_you_all_w
+ith_my_tale_of_woe_but/
+STARTING... 940 <ForkProcess(ForkPoolWorker-20, started daemon)>
+984 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awohx5/requestus_been_living_on_noodles_for_t
+oo_long/
+STARTING... 985 <ForkProcess(ForkPoolWorker-21, started daemon)>
+119 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/davu5y/request_been_going_through_a_lot_of_me
+ntal_health/
+STARTING... 120 <ForkProcess(ForkPoolWorker-3, started daemon)>
+460 Fulfilled flippermode https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb8wia/request_cut_it_to_close_th
+is_month_will_gladly/
+STARTING... 461 <ForkProcess(ForkPoolWorker-10, started daemon)>
+312 Fulfilled xeroxbulletgirl https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnefwl/request_could_use_a_pi
+zza_to_make_it_through/
+STARTING... 313 <ForkProcess(ForkPoolWorker-7, started daemon)>
+364 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjys5j/request_dominos_for_guys_night/
+STARTING... 365 <ForkProcess(ForkPoolWorker-8, started daemon)>
+891 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4sdwv/request_almost_no_food_and_husban
+d_doesnt_get/
+STARTING... 892 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1030 Fulfilled jwilla92 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/astgh3/request_in_a_slump_would_app
+reciate_a_cheery_pizza/
+STARTING... 1031 <ForkProcess(ForkPoolWorker-22, started daemon)>
+216 Fulfilled CrushingPeonies https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cyi7kj/request_i_will_play_cl
+arinet_for_pizza/
+STARTING... 217 <ForkProcess(ForkPoolWorker-5, started daemon)>
+71 Fulfilled Zeki_Boy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg246r/request_university_student_a_l
+ittle_ill_and_would/
+STARTING... 72 <ForkProcess(ForkPoolWorker-2, started daemon)>
+650 Closed None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/br1gqx/request_would_love_a_pizza_hungry_an
+d_broke/
+STARTING... 651 <ForkProcess(ForkPoolWorker-14, started daemon)>
+845 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8knwe/request_broke_college_student_that_wou
+ld_like_a/
+STARTING... 846 <ForkProcess(ForkPoolWorker-18, started daemon)>
+27 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm4qae/request_please_help_me_make_my_family_f
+eel_better/
+STARTING... 28 <ForkProcess(ForkPoolWorker-1, started daemon)>
+1079 Fulfilled SlendyTheMan https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apijn0/request_fulltime_student
+_while_wife_works/
+STARTING... 1080 <ForkProcess(ForkPoolWorker-23, started daemon)>
+267 Fulfilled nelenzloh https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cspnub/requestjust_sort_of_hungry_n
+_broke_kinda_wanna/
+STARTING... 268 <ForkProcess(ForkPoolWorker-6, started daemon)>
+605 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bvdp64/request_i_just_lost_my_job_a
+ll_i_want_aside_from/
+STARTING... 606 <ForkProcess(ForkPoolWorker-13, started daemon)>
+461 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb79u8/request_on_loa_at_work_till_the_27th_c
+ould_use_a/
+STARTING... 462 <ForkProcess(ForkPoolWorker-10, started daemon)>
+558 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bzvzzg/request_uk_depression_kills_moving_cit
+y_jobs/
+STARTING... 559 <ForkProcess(ForkPoolWorker-12, started daemon)>
+503 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5k619/request_just_wanna_have_som
+e_cheeringup/
+STARTING... 504 <ForkProcess(ForkPoolWorker-11, started daemon)>
+408 Fulfilled Domesin https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cg5xnm/request_hungry_hungry_police_d
+ispatcher_on_2nd/
+STARTING... 409 <ForkProcess(ForkPoolWorker-9, started daemon)>
+170 Fulfilled ChubbyBrat https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4ohp2/request_way_down_on_my_luck
+_and_could_use_some/
+STARTING... 171 <ForkProcess(ForkPoolWorker-4, started daemon)>
+365 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjyqz7/request_im_a_student_and_have_been_loo
+king_for/
+STARTING... 366 <ForkProcess(ForkPoolWorker-8, started daemon)>
+1131 Fulfilled YoureARealCunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alwm17/request_really_struggl
+ing_this_evening/
+STARTING... 1132 <ForkProcess(ForkPoolWorker-24, started daemon)>
+695 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bn6fnm/request_havent_had_
+anything_other_than_slices_of/
+STARTING... 696 <ForkProcess(ForkPoolWorker-15, started daemon)>
+794 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/be2gi2/request_crazy_cra
+vings_for_the_za/
+STARTING... 795 <ForkProcess(ForkPoolWorker-17, started daemon)>
+28 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dm33wy/request_hit_with_awful_charges_and_a_fi
+ne_broke/
+STARTING... 29 <ForkProcess(ForkPoolWorker-1, started daemon)>
+846 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8ewcd/request_low_income_hungryass_coup
+le_need_a_good/
+STARTING... 847 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1031 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asstej/request_stuck_in_an_art_studio_broke_
+university/
+STARTING... 1032 <ForkProcess(ForkPoolWorker-22, started daemon)>
+72 Fulfilled 40ozKilla https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dg0kl5/request_hi_people_of_reddit/
+STARTING... 73 <ForkProcess(ForkPoolWorker-2, started daemon)>
+985 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awo97q/requestus_broke_my_ankle_la
+st_weekend_at_big_bend/
+STARTING... 986 <ForkProcess(ForkPoolWorker-21, started daemon)>
+1080 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/apb9s5/request_had_to_buy_a_new_phone_broke_
+and_would/
+STARTING... 1081 <ForkProcess(ForkPoolWorker-23, started daemon)>
+268 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/csnbnu/request_nyc_just_moved_back_home_to_an
+_apartment/
+STARTING... 269 <ForkProcess(ForkPoolWorker-6, started daemon)>
+892 Fulfilled iEslam https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4rkt4/request_american_in_japan_cravi
+ng_a_taste_of_home/
+STARTING... 893 <ForkProcess(ForkPoolWorker-19, started daemon)>
+120 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dao3jr/request_plains_pa_18705_hungr
+y_not_much_to_eat_in/
+STARTING... 121 <ForkProcess(ForkPoolWorker-3, started daemon)>
+366 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjxugy/request_i_would_really_like_a_pizza_a_
+lot/
+STARTING... 367 <ForkProcess(ForkPoolWorker-8, started daemon)>
+696 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bn5o6s/request_college_kid_dining_halls_are_c
+losed_for/
+STARTING... 697 <ForkProcess(ForkPoolWorker-15, started daemon)>
+559 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bzvmt1/request_put_my_dog_down_a_week_and_a_h
+alf_ago_and/
+STARTING... 560 <ForkProcess(ForkPoolWorker-12, started daemon)>
+217 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cyavm1/request_wanting_to_get_litt
+le_caesars_for/
+STARTING... 218 <ForkProcess(ForkPoolWorker-5, started daemon)>
+940 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b0e927/request_broke_until_p
+ayday/
+STARTING... 941 <ForkProcess(ForkPoolWorker-20, started daemon)>
+748 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi3v3k/requestbrazilian_doggie_and_h
+er_parents_would/
+STARTING... 749 <ForkProcess(ForkPoolWorker-16, started daemon)>
+462 Fulfilled pristineterror https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb6m1o/request_i_dont_get_paid
+_until_thursday_and_i_used/
+STARTING... 463 <ForkProcess(ForkPoolWorker-10, started daemon)>
+171 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4jd73/request_have_12_hours_to_finish_buildi
+ng_a/
+STARTING... 172 <ForkProcess(ForkPoolWorker-4, started daemon)>
+651 Fulfilled Gwinblayd https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bqxwrz/request_ive_had_over_3000_in
+_medical_bills_so_far/
+STARTING... 652 <ForkProcess(ForkPoolWorker-14, started daemon)>
+986 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awo239/request_uk_student_with_no_money_until
+_payday_in/
+STARTING... 987 <ForkProcess(ForkPoolWorker-21, started daemon)>
+1032 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asrwij/request_empty_pantry_in_canada/
+STARTING... 1033 <ForkProcess(ForkPoolWorker-22, started daemon)>
+606 Fulfilled Lasaif https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bv33zu/request_my_boyfriend_and_i_have
+_no_food_in_the/
+STARTING... 607 <ForkProcess(ForkPoolWorker-13, started daemon)>
+73 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dfpqtf/request_usa_tired_and_hungry/
+STARTING... 74 <ForkProcess(ForkPoolWorker-2, started daemon)>
+313 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cndsix/request_working_a_f
+ull_time_job_entirely_of_my/
+STARTING... 314 <ForkProcess(ForkPoolWorker-7, started daemon)>
+29 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dltnnl/request_broke_till_payday_could_use_som
+e_food/
+STARTING... 30 <ForkProcess(ForkPoolWorker-1, started daemon)>
+269 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/csielt/request_been_on_sick_leave_for_2_weeks
+_because_im/
+STARTING... 270 <ForkProcess(ForkPoolWorker-6, started daemon)>
+121 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/danwsz/request_broke_hungry/
+STARTING... 122 <ForkProcess(ForkPoolWorker-3, started daemon)>
+941 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b00qlj/request_broke_college_student_in_need_
+for_pizza/
+STARTING... 942 <ForkProcess(ForkPoolWorker-20, started daemon)>
+409 Fulfilled shevchenko7cfc https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cg5nhd/request_going_through_b
+reakup_comfort_food/
+STARTING... 410 <ForkProcess(ForkPoolWorker-9, started daemon)>
+795 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/be1rvm/request_unable_to_get_to_st
+ore_with_3_kids/
+STARTING... 796 <ForkProcess(ForkPoolWorker-17, started daemon)>
+652 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bqmdyd/request_would_really_appreciate_a_pizz
+a_been/
+STARTING... 653 <ForkProcess(ForkPoolWorker-14, started daemon)>
+504 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5dhtr/request_23_live_alo
+ne_with_2_year_old_daughter/
+STARTING... 505 <ForkProcess(ForkPoolWorker-11, started daemon)>
+847 Fulfilled jchildr https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b8dlqz/request_simply_depressed_and_b
+roke/
+STARTING... 848 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1081 Fulfilled mattdamonfanclub https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ap9vbt/request_yemeni_colle
+ge_student_with_a_lot_of_guilt/
+STARTING... 1082 <ForkProcess(ForkPoolWorker-23, started daemon)>
+893 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4rf8n/request_broke_out_of_food_no_food_3_da
+ys_need_help/
+STARTING... 894 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1132 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alvwv5/request_pizza_for_a_
+couple_having_a_bad_month/
+STARTING... 1133 <ForkProcess(ForkPoolWorker-24, started daemon)>
+410 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cfud1s/request_craving_something_different/
+STARTING... 411 <ForkProcess(ForkPoolWorker-9, started daemon)>
+218 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cy45va/request_working_hard_until_
+payday_but_broke_and/
+STARTING... 219 <ForkProcess(ForkPoolWorker-5, started daemon)>
+560 Fulfilled Scooba6369 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bztlet/request_7_dollars_in_my_ban
+k_account_until_friday/
+STARTING... 561 <ForkProcess(ForkPoolWorker-12, started daemon)>
+367 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cju8ov/requesttotally_broke_until_
+the_1st_fridge_is_a/
+STARTING... 368 <ForkProcess(ForkPoolWorker-8, started daemon)>
+697 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bn3pfy/request_wife_just_got_a_new_j
+ob_had_to_spend_last/
+STARTING... 698 <ForkProcess(ForkPoolWorker-15, started daemon)>
+1033 Fulfilled kittenhugger777 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asrfzq/request_car_in_the_sh
+op_again_all_money_spent_and/
+STARTING... 1034 <ForkProcess(ForkPoolWorker-22, started daemon)>
+607 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bv2dgy/request_its_8pm_negative_ban
+k_account_havent_ate/
+STARTING... 608 <ForkProcess(ForkPoolWorker-13, started daemon)>
+463 Fulfilled IfIKnewThen https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb4gfa/request_working_my_way_thr
+ough_a_tough_month/
+STARTING... 464 <ForkProcess(ForkPoolWorker-10, started daemon)>
+172 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4j9ae/request_roomate_spent_all_of_
+our_bills_money_on/
+STARTING... 173 <ForkProcess(ForkPoolWorker-4, started daemon)>
+796 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/be0zrq/requestjust_got_denie
+d_financial_aid_for_college/
+STARTING... 797 <ForkProcess(ForkPoolWorker-17, started daemon)>
+270 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cscpcg/request_moved_to_one_
+of_the_countrys_most/
+STARTING... 271 <ForkProcess(ForkPoolWorker-6, started daemon)>
+942 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azzyek/request_pizza_before_
+payday/
+STARTING... 943 <ForkProcess(ForkPoolWorker-20, started daemon)>
+894 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4qtzc/request_pizza_for_a_south_american_at_
+the_end_of/
+STARTING... 895 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1082 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ap8zgd/request_i_am_home_alone_with_my_son_a
+nd_no_way_of/
+STARTING... 1083 <ForkProcess(ForkPoolWorker-23, started daemon)>
+987 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awn1ri/request_us_me_and_m
+y_husband_are_so_poor_right/
+STARTING... 988 <ForkProcess(ForkPoolWorker-21, started daemon)>
+314 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cncw7f/request_no_more_ramen
+_left/
+STARTING... 315 <ForkProcess(ForkPoolWorker-7, started daemon)>
+74 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dfpo1s/request_usa_studying
+_for_final_waiting_for/
+STARTING... 75 <ForkProcess(ForkPoolWorker-2, started daemon)>
+749 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi2vfr/request_hi_i_ran_ou
+t_of_money_two_days_ago_and/
+STARTING... 750 <ForkProcess(ForkPoolWorker-16, started daemon)>
+411 Fulfilled darlingleo6 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cfq9m8/request_craving_some_pizza
+/
+STARTING... 412 <ForkProcess(ForkPoolWorker-9, started daemon)>
+653 Fulfilled davy_jones_locket https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bqmb39/request_an_unexpecte
+d_expense_took_out_over_200/
+STARTING... 654 <ForkProcess(ForkPoolWorker-14, started daemon)>
+561 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bziz4a/request_could_really_use_a_p
+izza_to_cheer_me_up_a/
+STARTING... 562 <ForkProcess(ForkPoolWorker-12, started daemon)>
+271 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cs4bx0/request_in_between_jobs/
+STARTING... 272 <ForkProcess(ForkPoolWorker-6, started daemon)>
+30 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dlt3kb/request_just_moved
+_across_country_to_a_new_city/
+STARTING... 31 <ForkProcess(ForkPoolWorker-1, started daemon)>
+848 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7p2lz/requestca_just_woke_up_afte
+r_the_worst_day_of_my/
+STARTING... 849 <ForkProcess(ForkPoolWorker-18, started daemon)>
+122 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/danvv9/request_found_out_i_f
+ailed_the_bar_exam_more/
+STARTING... 123 <ForkProcess(ForkPoolWorker-3, started daemon)>
+368 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjtk9z/request_depressive_episode_for_the_fir
+st_time/
+STARTING... 369 <ForkProcess(ForkPoolWorker-8, started daemon)>
+1034 Fulfilled snookermom https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asr7bi/request_broke_until_next_p
+ayday_just_hoping_for_a/
+STARTING... 1035 <ForkProcess(ForkPoolWorker-22, started daemon)>
+1133 Fulfilled AI5JUL09 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alvofa/request_spent_last_paycheck_
+on_apartment_not/
+STARTING... 1134 <ForkProcess(ForkPoolWorker-24, started daemon)>
+608 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bv27uq/request_sometimes_you_just_have_to_pra
+y_to_shaggy/
+STARTING... 609 <ForkProcess(ForkPoolWorker-13, started daemon)>
+505 Fulfilled KalN7 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c5092v/request_im_celiac_and_havent_had
+_pizza_since_my/
+STARTING... 506 <ForkProcess(ForkPoolWorker-11, started daemon)>
+943 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azo0sb/request_pulling_an_allnighter_on_campu
+s_partner/
+STARTING... 944 <ForkProcess(ForkPoolWorker-20, started daemon)>
+31 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dlnuzr/request_just_a_hungry_canadian_who_like
+s_pizza/
+STARTING... 32 <ForkProcess(ForkPoolWorker-1, started daemon)>
+219 Fulfilled Carrott54 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cy2pbx/request_just_a_broke_college
+_student_looking_for/
+STARTING... 220 <ForkProcess(ForkPoolWorker-5, started daemon)>
+315 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cname5/request_spent_last_bits_of_money_on_ne
+xt_months/
+STARTING... 316 <ForkProcess(ForkPoolWorker-7, started daemon)>
+895 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4qlbh/request_missouri_man_living_in_hanniba
+l_is_hungry/
+STARTING... 896 <ForkProcess(ForkPoolWorker-19, started daemon)>
+75 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dfmwo9/request_need_help_feeding_disabled_cowo
+rker/
+STARTING... 76 <ForkProcess(ForkPoolWorker-2, started daemon)>
+654 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bqaltf/request_us_paying_two_rents_at_once_su
+rprisingly/
+STARTING... 655 <ForkProcess(ForkPoolWorker-14, started daemon)>
+369 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjjqr1/request_one_day_until_payday_and_used_
+grocery/
+STARTING... 370 <ForkProcess(ForkPoolWorker-8, started daemon)>
+698 Fulfilled GramptMobile https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bn2mkc/request_my_friends_and_i_
+havent_eaten_in_two_days/
+STARTING... 699 <ForkProcess(ForkPoolWorker-15, started daemon)>
+464 Fulfilled Zeki_Boy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb49vb/request_fridge_broke_food_rui
+ned/
+STARTING... 465 <ForkProcess(ForkPoolWorker-10, started daemon)>
+797 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bdzds7/request_all_my_little_girl_
+wants_tonight_is_pizza/
+STARTING... 798 <ForkProcess(ForkPoolWorker-17, started daemon)>
+988 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awmj7t/request_us_saxophoneplaying
+_broke_college_kid/
+STARTING... 989 <ForkProcess(ForkPoolWorker-21, started daemon)>
+562 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bzdrgf/request_out_of_work_with_a_b
+ack_injury_completely/
+STARTING... 563 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1083 Fulfilled Janey_Cakes https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ap7b9e/request_fired_from_my_job
+_of_two_years_on/
+STARTING... 1084 <ForkProcess(ForkPoolWorker-23, started daemon)>
+316 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnalq4/request_broke_college_student_craving_
+some_pizza/
+STARTING... 317 <ForkProcess(ForkPoolWorker-7, started daemon)>
+1035 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asp3n3/request_pizza_for_a_snowy_day_in_the_
+office/
+STARTING... 1036 <ForkProcess(ForkPoolWorker-22, started daemon)>
+750 Fulfilled reckless150681 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bi1zzt/request_just_looking_fo
+r_a_way_to_feed_my_girls/
+STARTING... 751 <ForkProcess(ForkPoolWorker-16, started daemon)>
+944 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azlxfc/request_broke_and_will_trade_art_for_p
+izza/
+STARTING... 945 <ForkProcess(ForkPoolWorker-20, started daemon)>
+173 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4g3ci/request_making_some_milk_brea
+d_a_nice_pizza_or/
+STARTING... 174 <ForkProcess(ForkPoolWorker-4, started daemon)>
+412 Fulfilled doveenigma13 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cfpdlf/request_had_a_crappy_week
+_that_started_with/
+STARTING... 413 <ForkProcess(ForkPoolWorker-9, started daemon)>
+849 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7p168/request_ive_been_called_int
+o_work_12_hours_6_out/
+STARTING... 850 <ForkProcess(ForkPoolWorker-18, started daemon)>
+798 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bdvrag/request_sick_at_home_for_second_month_
+in_a_row/
+STARTING... 799 <ForkProcess(ForkPoolWorker-17, started daemon)>
+32 Fulfilled Evilevilcow https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dlmqjt/request_pizza_for_my_girlfr
+iend_who_has_not/
+STARTING... 33 <ForkProcess(ForkPoolWorker-1, started daemon)>
+699 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmwb6h/request_broke_donating_plasma_for
+_gas_tomorrow/
+STARTING... 700 <ForkProcess(ForkPoolWorker-15, started daemon)>
+220 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cy0mkg/request_kidney_stone_just_a
+bout_wiped_my_account/
+STARTING... 221 <ForkProcess(ForkPoolWorker-5, started daemon)>
+370 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjhczi/request_broke_for_the
+_next_two_days_no_food_in/
+STARTING... 371 <ForkProcess(ForkPoolWorker-8, started daemon)>
+272 Fulfilled tklynch911 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cs2hzm/request_i_just_got_a_480_me
+dical_bill_pizza_would/
+STARTING... 273 <ForkProcess(ForkPoolWorker-6, started daemon)>
+1134 Fulfilled msdos_sys https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alucrv/request_broke_stressed_tryi
+ng_not_to_panic_and/
+STARTING... 1135 <ForkProcess(ForkPoolWorker-24, started daemon)>
+123 Fulfilled toomanydeployments https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/damzuu/request_i_ruined_di
+nner_by_burning_it_beyond_all/
+STARTING... 124 <ForkProcess(ForkPoolWorker-3, started daemon)>
+506 Fulfilled DeluxeHubris https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4yk9p/request_depressed_broke_g
+irl_could_use_a_pizza/
+STARTING... 507 <ForkProcess(ForkPoolWorker-11, started daemon)>
+76 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dfmh0b/request_some_grub_for_the_ki
+ddos_will_return_the/
+STARTING... 77 <ForkProcess(ForkPoolWorker-2, started daemon)>
+655 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bqakog/request_accidentally_floode
+d_my_laundry_room_a/
+STARTING... 656 <ForkProcess(ForkPoolWorker-14, started daemon)>
+563 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bz5bxf/requestgave_last_of_grocery_money
+_to_brother/
+STARTING... 564 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1084 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ap5w90/request_bored_out_of_my_mind_at_churc
+h_would_love/
+STARTING... 1085 <ForkProcess(ForkPoolWorker-23, started daemon)>
+609 Fulfilled ColdPotatoFries https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bv0cyz/request_no_story_i_jus
+t_want_pizza/
+STARTING... 610 <ForkProcess(ForkPoolWorker-13, started daemon)>
+799 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bdmgp0/request_craving_pizza/
+STARTING... 800 <ForkProcess(ForkPoolWorker-17, started daemon)>
+751 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhvevj/request_australia_completely_broke_uni
+_student/
+STARTING... 752 <ForkProcess(ForkPoolWorker-16, started daemon)>
+896 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4pnrm/request_first_time_
+request_feeling_pizza_but_a/
+STARTING... 897 <ForkProcess(ForkPoolWorker-19, started daemon)>
+221 Fulfilled unclesam4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxzhod/request_single_mom_wanting_t
+o_celebrate_with_son/
+STARTING... 222 <ForkProcess(ForkPoolWorker-5, started daemon)>
+465 Fulfilled Kroka4Loka https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cb2s0p/request_my_fiancé_lost_her_
+job_yesterday/
+STARTING... 466 <ForkProcess(ForkPoolWorker-10, started daemon)>
+33 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dldbo0/request_canada_would_just_like_comfort_
+food_will/
+STARTING... 34 <ForkProcess(ForkPoolWorker-1, started daemon)>
+850 Fulfilled bluepand4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7iwu5/request_exhausted_caregiver_
+hoping_for_a_meal/
+STARTING... 851 <ForkProcess(ForkPoolWorker-18, started daemon)>
+989 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awi7ov/request_bedridden_and_sick/
+STARTING... 990 <ForkProcess(ForkPoolWorker-21, started daemon)>
+700 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmrkfh/request_i_get_paid_in_two_days_an
+d_am_currently/
+STARTING... 701 <ForkProcess(ForkPoolWorker-15, started daemon)>
+317 Fulfilled bskell https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cnacm2/request_im_at_a_bit_of_an_all_t
+ime_low/
+STARTING... 318 <ForkProcess(ForkPoolWorker-7, started daemon)>
+77 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dflx63/request_usa_one_day_from_payday_just_tr
+ying_to/
+STARTING... 78 <ForkProcess(ForkPoolWorker-2, started daemon)>
+174 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4ecln/request_weve_had_a_really_c
+rappy_week_and_could/
+STARTING... 175 <ForkProcess(ForkPoolWorker-4, started daemon)>
+413 Fulfilled Tobyfriend15 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cffud6/request_20_year_old_in_ca
+nada_abandoned_by_parents/
+STARTING... 414 <ForkProcess(ForkPoolWorker-9, started daemon)>
+1036 Fulfilled sparkchaser https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asj8e4/request_a_change_from_pbj
+/
+STARTING... 1037 <ForkProcess(ForkPoolWorker-22, started daemon)>
+1085 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoze2b/request_long_term_medical_leave_waiti
+ng_for/
+STARTING... 1086 <ForkProcess(ForkPoolWorker-23, started daemon)>
+945 Fulfilled bemyfriENT https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azlc7p/request_spring_break_pizza_
+for_my_friend_dog_and_i/
+STARTING... 946 <ForkProcess(ForkPoolWorker-20, started daemon)>
+752 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhud92/request_working_on_my_final_40_page_pa
+per_for/
+STARTING... 753 <ForkProcess(ForkPoolWorker-16, started daemon)>
+466 Fulfilled lazywater https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cavwzb/request_just_had_to_put_my_c
+at_down_and_am_now/
+STARTING... 467 <ForkProcess(ForkPoolWorker-10, started daemon)>
+656 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bq9g6l/request_stuck_eating_ramen_for_two_wee
+ks_straight/
+STARTING... 657 <ForkProcess(ForkPoolWorker-14, started daemon)>
+564 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bz55x4/request_dont_get_paid_until_
+thursday_and_im/
+STARTING... 565 <ForkProcess(ForkPoolWorker-12, started daemon)>
+851 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7i8dm/request_college_student_with_no_food_o
+r_money/
+STARTING... 852 <ForkProcess(ForkPoolWorker-18, started daemon)>
+990 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awdsgu/request_anxiety_has_me_in_physical_pai
+n_money_is/
+STARTING... 991 <ForkProcess(ForkPoolWorker-21, started daemon)>
+371 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjgc2e/request_my_son_broke_his_cl
+avicle_collar_bone_and/
+STARTING... 372 <ForkProcess(ForkPoolWorker-8, started daemon)>
+946 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azl73s/request_i_would_love_a_random_act_of_p
+izza_in_the/
+STARTING... 947 <ForkProcess(ForkPoolWorker-20, started daemon)>
+610 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buymoy/request_lost_my_job_bills_ha
+ve_wiped_out_my_money/
+STARTING... 611 <ForkProcess(ForkPoolWorker-13, started daemon)>
+124 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dalzik/request_broke_until_tuesday
+_the_woe_of_the_student/
+STARTING... 125 <ForkProcess(ForkPoolWorker-3, started daemon)>
+78 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dflhln/request_about_to_start_day_3_of_nothing
+_but_water/
+STARTING... 79 <ForkProcess(ForkPoolWorker-2, started daemon)>
+273 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crvjlo/request_just_move
+d_and_payed_2_months_rent_in/
+STARTING... 274 <ForkProcess(ForkPoolWorker-6, started daemon)>
+800 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bdm91r/request_turn_something_frus
+trating_into_something/
+STARTING... 801 <ForkProcess(ForkPoolWorker-17, started daemon)>
+222 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxts5a/request_uni_student_no_food
+_for_tonight/
+STARTING... 223 <ForkProcess(ForkPoolWorker-5, started daemon)>
+1135 Fulfilled zombiedix https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/altz9h/request_today_is_my_18th_bi
+rthday_thats_about_it/
+STARTING... 1136 <ForkProcess(ForkPoolWorker-24, started daemon)>
+175 Fulfilled penelaine https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d4apoa/request_no_luck_finding_a_jo
+b_after_losing_my/
+STARTING... 176 <ForkProcess(ForkPoolWorker-4, started daemon)>
+753 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bht99w/request_not_gonna_clickbait_you_i_have
+_no_story/
+STARTING... 754 <ForkProcess(ForkPoolWorker-16, started daemon)>
+657 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bq6qrp/request_uk_a_week_til_payday_and_too_f
+ull_of_cold/
+STARTING... 658 <ForkProcess(ForkPoolWorker-14, started daemon)>
+34 Fulfilled shevchenko7cfc https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dlbjtb/request_trying_to_cheer_
+up_my_boyfriend_but_i/
+STARTING... 35 <ForkProcess(ForkPoolWorker-1, started daemon)>
+507 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4xxyj/request_first_time_posting_on
+_this_sub_trying/
+STARTING... 508 <ForkProcess(ForkPoolWorker-11, started daemon)>
+701 Fulfilled zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmma9i/request_was_laid_off_work_with
+_no_pay_found/
+STARTING... 702 <ForkProcess(ForkPoolWorker-15, started daemon)>
+467 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cauypp/request_just_moved_in_and_a
+m_dead_broke_til_friday/
+STARTING... 468 <ForkProcess(ForkPoolWorker-10, started daemon)>
+1086 Fulfilled BoxedBoobs https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoylux/requestbroke_college_stude
+nt_with_no_food_i_just/
+STARTING... 1087 <ForkProcess(ForkPoolWorker-23, started daemon)>
+897 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4m9lf/request_uk_uni_stud
+ent_seeing_if_anyone_could/
+STARTING... 898 <ForkProcess(ForkPoolWorker-19, started daemon)>
+372 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cjfkbl/request_just_got_dumped_and_short_of_m
+oney_could/
+STARTING... 373 <ForkProcess(ForkPoolWorker-8, started daemon)>
+318 Fulfilled MandingoPants https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cn7d7f/request_head_spinning_wi
+th_2_jobs_thesis_work_an/
+STARTING... 319 <ForkProcess(ForkPoolWorker-7, started daemon)>
+223 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxoyfo/request_exhausted_long_week_finally_go
+t_a_job/
+STARTING... 224 <ForkProcess(ForkPoolWorker-5, started daemon)>
+414 Fulfilled Posiedon59 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cfekuj/request_pretty_tired_could_
+really_use_some_hot/
+STARTING... 415 <ForkProcess(ForkPoolWorker-9, started daemon)>
+801 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bd9qay/request_hungry_college_student_trying_
+to_survive/
+STARTING... 802 <ForkProcess(ForkPoolWorker-17, started daemon)>
+1136 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/altymy/request_looking_to_swallow_my_depress
+ion_in_the/
+STARTING... 1137 <ForkProcess(ForkPoolWorker-24, started daemon)>
+611 Fulfilled Edna_Mode_mood https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bux406/request_struggling_a_bi
+t_due_to_bills_this_month/
+STARTING... 612 <ForkProcess(ForkPoolWorker-13, started daemon)>
+565 Fulfilled cormamin101 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bz1fxo/request_in_a_pinch_would_a
+ppreciate_some_za/
+STARTING... 566 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1037 Fulfilled tjak_01 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ashf27/request_95_paychecktopaycheck
+_guy_with_a/
+STARTING... 1038 <ForkProcess(ForkPoolWorker-22, started daemon)>
+658 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bppglw/request_columbus_oh_security_deposit_d
+own_cant/
+STARTING... 659 <ForkProcess(ForkPoolWorker-14, started daemon)>
+176 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d47h1j/request_could_use_a_pickmeup_and_some_
+comfort/
+STARTING... 177 <ForkProcess(ForkPoolWorker-4, started daemon)>
+274 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crv62u/request_milwaukie_oregon_us
+a_broke_until_monday/
+STARTING... 275 <ForkProcess(ForkPoolWorker-6, started daemon)>
+754 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhsyvq/request_someone_found_my_wallet_and_us
+ed_my_card/
+STARTING... 755 <ForkProcess(ForkPoolWorker-16, started daemon)>
+35 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dl88uw/request_broke_and_in_dire_need_of_a_pie
+/
+STARTING... 36 <ForkProcess(ForkPoolWorker-1, started daemon)>
+468 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/catym1/request_girlfriend_out_of_town_payday_
+isnt_until/
+STARTING... 469 <ForkProcess(ForkPoolWorker-10, started daemon)>
+991 Fulfilled Gwinblayd https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awdiul/request_currently_without_wo
+rk_and_hungry/
+STARTING... 992 <ForkProcess(ForkPoolWorker-21, started daemon)>
+852 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7hu4u/request_recently_lo
+st_my_wallet_and_had_to_cancel/
+STARTING... 853 <ForkProcess(ForkPoolWorker-18, started daemon)>
+125 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dalwx6/request_would_love_
+a_pizza_havent_eaten_all_day/
+STARTING... 126 <ForkProcess(ForkPoolWorker-3, started daemon)>
+947 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/azinbn/request_struggling_co
+llege_student_would_like_a/
+STARTING... 948 <ForkProcess(ForkPoolWorker-20, started daemon)>
+508 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4wtrt/request_no_sob_story_im_just
+_broke_and_in_the/
+STARTING... 509 <ForkProcess(ForkPoolWorker-11, started daemon)>
+79 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dfjlgm/request_just_went_th
+rough_a_breakup_could_use/
+STARTING... 80 <ForkProcess(ForkPoolWorker-2, started daemon)>
+275 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crqufg/request_mesquite_tx_us_im_in_driv
+ing_school_to/
+STARTING... 276 <ForkProcess(ForkPoolWorker-6, started daemon)>
+702 Fulfilled green_goblin_z https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmdqm7/request_i_may_have_to_c
+hoose_between_gas_or_food/
+STARTING... 703 <ForkProcess(ForkPoolWorker-15, started daemon)>
+1087 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoyl0y/request_i_normal
+ly_like_to_give_but_this_week_has/
+STARTING... 1088 <ForkProcess(ForkPoolWorker-23, started daemon)>
+224 Fulfilled Sagerie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxnc87/request_hungry/
+STARTING... 225 <ForkProcess(ForkPoolWorker-5, started daemon)>
+319 Fulfilled xeroxbulletgirl https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cn061b/request_shitty_depress
+ion_week_and_i_havent_been/
+STARTING... 320 <ForkProcess(ForkPoolWorker-7, started daemon)>
+415 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cfanlf/request_having_a_day_off_wi
+th_the_dogs_were_hungry/
+STARTING... 416 <ForkProcess(ForkPoolWorker-9, started daemon)>
+802 Fulfilled unclesam4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bd70ce/request_finally_employed_aga
+in_and_would_like_to/
+STARTING... 803 <ForkProcess(ForkPoolWorker-17, started daemon)>
+612 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buvzl1/request_completely_broke_student_could
+_use/
+STARTING... 613 <ForkProcess(ForkPoolWorker-13, started daemon)>
+566 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byzmiq/request_birthday_pie/
+STARTING... 567 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1038 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asgzdf/request_can_someone_help_me_order_a_p
+izza/
+STARTING... 1039 <ForkProcess(ForkPoolWorker-22, started daemon)>
+853 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7hsg0/request_no_food_until_food_stamps_come
+_in_on_the/
+STARTING... 854 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1137 Fulfilled Jsweezy26 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alpaqp/request_broke_down_on_our_l
+uck_and_need_a_pick_me/
+STARTING... 1138 <ForkProcess(ForkPoolWorker-24, started daemon)>
+659 Fulfilled YoureARealCunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bpm611/request_modesto_ca_in_t
+he_middle_of_a_divorce/
+STARTING... 660 <ForkProcess(ForkPoolWorker-14, started daemon)>
+755 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhsxij/request_pizza_please/
+STARTING... 756 <ForkProcess(ForkPoolWorker-16, started daemon)>
+373 Fulfilled SquirmWorms https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj6gxm/request_broke_and_struggli
+ng_till_payday/
+STARTING... 374 <ForkProcess(ForkPoolWorker-8, started daemon)>
+898 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4ep0q/request_craving_a
+_pizza_on_a_friday_night/
+STARTING... 899 <ForkProcess(ForkPoolWorker-19, started daemon)>
+703 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmdi5o/requeststruggling_between_finals_and_b
+ills/
+STARTING... 704 <ForkProcess(ForkPoolWorker-15, started daemon)>
+416 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cf7dl1/request_my_partner_and_i_have_132
+_to_last_until/
+STARTING... 417 <ForkProcess(ForkPoolWorker-9, started daemon)>
+177 Fulfilled floggingmurphies https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d3zm5p/request_ebay_sale_fel
+l_through_no_money_and/
+STARTING... 178 <ForkProcess(ForkPoolWorker-4, started daemon)>
+36 Fulfilled zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dl878s/request_dinner_for_my_partner_a
+nd_i/
+STARTING... 37 <ForkProcess(ForkPoolWorker-1, started daemon)>
+126 Fulfilled numbersaremygameyall https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dak0tr/request_toms_rive
+r_nj_car_repairs_broke/
+STARTING... 127 <ForkProcess(ForkPoolWorker-3, started daemon)>
+320 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmz2us/request_up_late_or_early_because_im_hu
+ngry/
+STARTING... 321 <ForkProcess(ForkPoolWorker-7, started daemon)>
+469 Fulfilled skinlessmonkey https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cas8vv/request_bank_account_is
+_overdrawn_no_groceries/
+STARTING... 470 <ForkProcess(ForkPoolWorker-10, started daemon)>
+854 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7h1py/request_just_moved_into_a_new_apartmen
+t_working/
+STARTING... 855 <ForkProcess(ForkPoolWorker-18, started daemon)>
+803 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bd3gvf/request_would_love_something_other_tha
+n_pasta/
+STARTING... 804 <ForkProcess(ForkPoolWorker-17, started daemon)>
+567 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bysxwl/request_just_made_it_through_the_first
+_month_of/
+STARTING... 568 <ForkProcess(ForkPoolWorker-12, started daemon)>
+948 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/az9icj/request_i_spent_every
+_penny_in_my_name_for_rent/
+STARTING... 949 <ForkProcess(ForkPoolWorker-20, started daemon)>
+1039 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asgqap/request_help_mend_a_broken
+_heart/
+STARTING... 1040 <ForkProcess(ForkPoolWorker-22, started daemon)>
+704 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bmbyfs/request_home_alone_and_starving/
+STARTING... 705 <ForkProcess(ForkPoolWorker-15, started daemon)>
+225 Fulfilled OliveHater https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxiuf2/request_literally_homeless_
+on_the_steets/
+STARTING... 226 <ForkProcess(ForkPoolWorker-5, started daemon)>
+276 Fulfilled tarlton24 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crgvnr/request_bozeman_mt_usa_its_b
+een_a_tough_past/
+STARTING... 277 <ForkProcess(ForkPoolWorker-6, started daemon)>
+660 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bpkerb/request_its_ramadan_i_have_no_money_i_
+havent/
+STARTING... 661 <ForkProcess(ForkPoolWorker-14, started daemon)>
+470 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/car5mq/request_just_took_my_nclexrn_today_for
+_my_license/
+STARTING... 471 <ForkProcess(ForkPoolWorker-10, started daemon)>
+613 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buvjae/request_been_outside_
+working_a_lot_past_couple/
+STARTING... 614 <ForkProcess(ForkPoolWorker-13, started daemon)>
+509 Fulfilled phnx428 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4us8a/request_going_through_a_divorc
+e_and_looking_for_a/
+STARTING... 510 <ForkProcess(ForkPoolWorker-11, started daemon)>
+417 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cf0d1v/request_i_was_going_to_get_pizza_today
+_but/
+STARTING... 418 <ForkProcess(ForkPoolWorker-9, started daemon)>
+992 Fulfilled himisscas https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awcv8d/requestus_roommate_left_leav
+ing_me_to_pay_all_of/
+STARTING... 993 <ForkProcess(ForkPoolWorker-21, started daemon)>
+80 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/df9s6b/request_dont_get_pai
+d_till_friday/
+STARTING... 81 <ForkProcess(ForkPoolWorker-2, started daemon)>
+804 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcye6t/request_fiancée_was_hit_by_a_car_misse
+d_2_months/
+STARTING... 805 <ForkProcess(ForkPoolWorker-17, started daemon)>
+178 Fulfilled Sagerie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d3wfj4/request_awful_day_at_work_only
+_have_plain_rice_to/
+STARTING... 179 <ForkProcess(ForkPoolWorker-4, started daemon)>
+855 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7gg3x/request_waiting_on_bank_transfer_then_
+pay_it/
+STARTING... 856 <ForkProcess(ForkPoolWorker-18, started daemon)>
+1088 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoxq0c/request_19yo_own_a
+partment_only_have_a_few_meals/
+STARTING... 1089 <ForkProcess(ForkPoolWorker-23, started daemon)>
+756 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhsl5e/request_stuck_at_ho
+me_alone_with_2_toddlers_all/
+STARTING... 757 <ForkProcess(ForkPoolWorker-16, started daemon)>
+37 Fulfilled SDMarik https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dl7nps/request_broke_until_friday_coul
+d_use_a_pie_to_get/
+STARTING... 38 <ForkProcess(ForkPoolWorker-1, started daemon)>
+1138 Fulfilled kittenhugger777 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aljsdt/request_just_discover
+ed_this_sub_and_could_use_a/
+STARTING... 1139 <ForkProcess(ForkPoolWorker-24, started daemon)>
+705 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bm9sm3/request_i_have_to_move_out_of_my_
+flat_on_the_22nd/
+STARTING... 706 <ForkProcess(ForkPoolWorker-15, started daemon)>
+471 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cad0y6/request_help_a_guy_get_something_to_ea
+t/
+STARTING... 472 <ForkProcess(ForkPoolWorker-10, started daemon)>
+661 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bpi5j5/request_ive_been_living_on_oatmea
+l_for_a_week_and/
+STARTING... 662 <ForkProcess(ForkPoolWorker-14, started daemon)>
+418 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cewqqs/request_started_a_new_job_and_trying_t
+o_navigate/
+STARTING... 419 <ForkProcess(ForkPoolWorker-9, started daemon)>
+321 Fulfilled lolzlawyer https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmywq9/request_something_for_my_mo
+m_and_i_till_i_get/
+STARTING... 322 <ForkProcess(ForkPoolWorker-7, started daemon)>
+949 Fulfilled UnicornFarts1111 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/az8qxf/request_ashamed_wife_
+4_kids_autistic_brother_sick/
+STARTING... 950 <ForkProcess(ForkPoolWorker-20, started daemon)>
+374 Fulfilled SquirmWorms https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj5n5j/request_i_was_paid_3_days_
+ago_and_forgot_to/
+STARTING... 375 <ForkProcess(ForkPoolWorker-8, started daemon)>
+226 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxdnf7/request_5_days_till_grocery
+_funds_come/
+STARTING... 227 <ForkProcess(ForkPoolWorker-5, started daemon)>
+127 Fulfilled ThankfulImposter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/daazw2/request_palm_springs_
+ca_had_to_empty_my_bank_acct/
+STARTING... 128 <ForkProcess(ForkPoolWorker-3, started daemon)>
+568 Fulfilled Kowatang https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byr7p9/request_nearly_broke_after_re
+cent_car_repairs/
+STARTING... 569 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1089 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aowcfh/request_fridge_is_empty_and_im_feelin
+g_awful_not/
+STARTING... 1090 <ForkProcess(ForkPoolWorker-23, started daemon)>
+899 Fulfilled Kamaria https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4dx8z/request_pizza_from_dominos_is_
+50_off_right_now/
+STARTING... 900 <ForkProcess(ForkPoolWorker-19, started daemon)>
+510 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4eoxk/request_depressed_anxious_an
+d_i_dunno_what_to_do/
+STARTING... 511 <ForkProcess(ForkPoolWorker-11, started daemon)>
+805 Fulfilled zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcuoq2/request_pizza_while_i_apply_fo
+r_jobs_all_day/
+STARTING... 806 <ForkProcess(ForkPoolWorker-17, started daemon)>
+950 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/az17tj/request_please_help/
+STARTING... 951 <ForkProcess(ForkPoolWorker-20, started daemon)>
+1040 Fulfilled syliase https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asgm96/request_part_time_studentdeli
+very_driver/
+STARTING... 1041 <ForkProcess(ForkPoolWorker-22, started daemon)>
+277 Fulfilled boatdude https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crgine/request_san_diego_ca_usa_fami
+ly_waiting_for_food/
+STARTING... 278 <ForkProcess(ForkPoolWorker-6, started daemon)>
+614 Fulfilled Yourearealcunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buutm2/request_i_am_a_hungry_s
+tudent_with_the_biggest/
+STARTING... 615 <ForkProcess(ForkPoolWorker-13, started daemon)>
+993 Fulfilled bluepand4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awcszy/request_recently_houseless_a
+nd_would_love/
+STARTING... 994 <ForkProcess(ForkPoolWorker-21, started daemon)>
+757 Fulfilled mqbush https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhrjre/request_craving_saucy_cheesy_go
+odness_and_so_sick/
+STARTING... 758 <ForkProcess(ForkPoolWorker-16, started daemon)>
+179 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d3ksb4/request_im_just_not_ok/
+STARTING... 180 <ForkProcess(ForkPoolWorker-4, started daemon)>
+662 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bphgwj/request_uk_hungry_and_dont_get_paid_ti
+ll_months/
+STARTING... 663 <ForkProcess(ForkPoolWorker-14, started daemon)>
+1139 None Rrogers7776 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alih7j/request_just_want_something_ne
+w_for_dinner/
+STARTING... 1140 <ForkProcess(ForkPoolWorker-24, started daemon)>
+227 Fulfilled unclesam4 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cxbt8k/request_please_help_me_get_t
+hrough_another_day/
+STARTING... 228 <ForkProcess(ForkPoolWorker-5, started daemon)>
+322 Fulfilled TalkShowHost555 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmynxv/request_its_been_a_rou
+gh_week_and_its_only_tuesday/
+STARTING... 323 <ForkProcess(ForkPoolWorker-7, started daemon)>
+706 Fulfilled Jsweezy26 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bm7ts9/request_about_to_tackle_my_l
+ast_college_exams/
+STARTING... 707 <ForkProcess(ForkPoolWorker-15, started daemon)>
+81 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/df7xxo/request_just_got_l
+aid_off_and_pizza_could_really/
+STARTING... 82 <ForkProcess(ForkPoolWorker-2, started daemon)>
+278 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crg025/request_uk_been_sorting_through_my_thi
+ngs_for_a/
+STARTING... 279 <ForkProcess(ForkPoolWorker-6, started daemon)>
+569 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byouxt/request_broke_after_paying_r
+ent_couldnt_buy/
+STARTING... 570 <ForkProcess(ForkPoolWorker-12, started daemon)>
+511 Fulfilled njbsmith https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4efez/request_recent_flood_in_apart
+ment_roommate_and_i/
+STARTING... 512 <ForkProcess(ForkPoolWorker-11, started daemon)>
+856 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b7ddsf/request_need_to_bre
+ak_up_the_monotony_with_a_pizza/
+STARTING... 857 <ForkProcess(ForkPoolWorker-18, started daemon)>
+128 Fulfilled NotSureAboutTh1s https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da8zzy/request_unemployed/
+STARTING... 129 <ForkProcess(ForkPoolWorker-3, started daemon)>
+38 Fulfilled tarlton24 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dl70kp/request_flatout_broke_and_rea
+lly_hungry/
+STARTING... 39 <ForkProcess(ForkPoolWorker-1, started daemon)>
+375 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj55iu/request_new_member_hoping_s
+omeone_will_share_the/
+STARTING... 376 <ForkProcess(ForkPoolWorker-8, started daemon)>
+758 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhr64f/request_been_living_in_motels_for
+_2_weeks_and/
+STARTING... 759 <ForkProcess(ForkPoolWorker-16, started daemon)>
+900 Fulfilled cnh89 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b4aylv/request_first_request_will_pay_i
+t_forward_on_the/
+STARTING... 901 <ForkProcess(ForkPoolWorker-19, started daemon)>
+994 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awc8qh/request_not_homeless_or_jobless_just_b
+roke_and/
+STARTING... 995 <ForkProcess(ForkPoolWorker-21, started daemon)>
+472 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9z5ed/request_just_move
+d_to_a_new_place_now_i_have_less/
+STARTING... 473 <ForkProcess(ForkPoolWorker-10, started daemon)>
+419 Fulfilled Nonnie2411 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/celup1/request_car_just_broke_down
+_and_the_repairs_are/
+STARTING... 420 <ForkProcess(ForkPoolWorker-9, started daemon)>
+806 Fulfilled UnicornFarts1111 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcu1uk/request_starting_my_s
+enior_practicum_three_days/
+STARTING... 807 <ForkProcess(ForkPoolWorker-17, started daemon)>
+615 Fulfilled vpenguin https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buue0i/request_some_beautiful_pizza/
+STARTING... 616 <ForkProcess(ForkPoolWorker-13, started daemon)>
+228 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwykdd/request_i_finally_got_a_job_that_pays_
+better_18hr/
+STARTING... 229 <ForkProcess(ForkPoolWorker-5, started daemon)>
+1041 Fulfilled iwillspeaknoevil https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asgk0j/request_over_7_month
+s_pregnant_fiance_doesnt_get/
+STARTING... 1042 <ForkProcess(ForkPoolWorker-22, started daemon)>
+82 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/df7vqu/request_21_year_old_broke_and_out_of_ga
+s_until/
+STARTING... 83 <ForkProcess(ForkPoolWorker-2, started daemon)>
+570 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bynlc1/request_been_eating_bread_sa
+ndwiches_for_days/
+STARTING... 571 <ForkProcess(ForkPoolWorker-12, started daemon)>
+1140 Fulfilled badjujuju1879 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alhhz9/request_broke_after_a_l
+ong_weekend_and_week/
+STARTING... 1141 <ForkProcess(ForkPoolWorker-24, started daemon)>
+1090 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aouufq/request_spent_the_
+last_of_my_money_on_clothes_and/
+STARTING... 1091 <ForkProcess(ForkPoolWorker-23, started daemon)>
+323 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmwzj9/request_works_been_cu
+tting_my_hours_and_all_my/
+STARTING... 324 <ForkProcess(ForkPoolWorker-7, started daemon)>
+857 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b75m8f/request_pizza_would_make_me
+_feel_better_about/
+STARTING... 858 <ForkProcess(ForkPoolWorker-18, started daemon)>
+180 Fulfilled LumpyBatter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d3g427/request_i_could_use_dinner
+/
+STARTING... 181 <ForkProcess(ForkPoolWorker-4, started daemon)>
+663 Fulfilled YoureARealCunt https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bph9le/request_do_you_guys_rem
+ember_the_tag_pc4pc_back/
+STARTING... 664 <ForkProcess(ForkPoolWorker-14, started daemon)>
+420 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cejkdr/request_moving_cross_country_packed_an
+d_tired/
+STARTING... 421 <ForkProcess(ForkPoolWorker-9, started daemon)>
+376 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj49uv/request_new_state_new_life_no_money/
+STARTING... 377 <ForkProcess(ForkPoolWorker-8, started daemon)>
+279 Fulfilled TheDogJones https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/crc6z1/request_craving_some_delic
+ious_za/
+STARTING... 280 <ForkProcess(ForkPoolWorker-6, started daemon)>
+707 Fulfilled seegodada https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bm70hr/request_between_paychecks_an
+d_birthday_is_tomorrow/
+STARTING... 708 <ForkProcess(ForkPoolWorker-15, started daemon)>
+951 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/az0k20/request_in_a_coll
+ege_dorm_with_nothing_to_eat_a/
+STARTING... 952 <ForkProcess(ForkPoolWorker-20, started daemon)>
+512 Fulfilled the_real_mvp_is_you https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c4e01t/request_3_marines_
+stuck_in_the_barracks/
+STARTING... 513 <ForkProcess(ForkPoolWorker-11, started daemon)>
+473 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9yvwz/request_broke_college_student_all_of_t
+he/
+STARTING... 474 <ForkProcess(ForkPoolWorker-10, started daemon)>
+616 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bunvlf/requestspent_all_day_applyin
+g_for_a_second_job/
+STARTING... 617 <ForkProcess(ForkPoolWorker-13, started daemon)>
+664 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bpfhqu/request_broke_college_student_living_i
+n_los/
+STARTING... 665 <ForkProcess(ForkPoolWorker-14, started daemon)>
+571 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bynham/request_broke_and_wont_be_ab
+le_to_buy_groceries/
+STARTING... 572 <ForkProcess(ForkPoolWorker-12, started daemon)>
+39 None SDMarik https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dl6vn7/request_could_really_use_a_slice/
+STARTING... 40 <ForkProcess(ForkPoolWorker-1, started daemon)>
+1042 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asgdfz/request_pizza_in_ontario_canada/
+STARTING... 1043 <ForkProcess(ForkPoolWorker-22, started daemon)>
+1141 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alhf6a/request_work_closed_due_to_weather_do
+nt_get_paid/
+STARTING... 1142 <ForkProcess(ForkPoolWorker-24, started daemon)>
+129 Fulfilled toomanydeployments https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da7oca/request_indianapoli
+s_in_my_bank_account_has_a/
+STARTING... 130 <ForkProcess(ForkPoolWorker-3, started daemon)>
+759 Fulfilled mqbush https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhp6b6/request_lost_my_job_a_month_ago
+_would_like_a/
+STARTING... 760 <ForkProcess(ForkPoolWorker-16, started daemon)>
+995 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/awb4kv/request_homeless_and_
+hungry_1st_time_poster/
+STARTING... 996 <ForkProcess(ForkPoolWorker-21, started daemon)>
+858 Fulfilled Routine_Tomatillo https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6ryc0/request_broke_and_hu
+ngry/
+STARTING... 859 <ForkProcess(ForkPoolWorker-18, started daemon)>
+280 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cqy1oq/request_one_more_day_until_i_get_my_fi
+rst_paycheck/
+STARTING... 281 <ForkProcess(ForkPoolWorker-6, started daemon)>
+324 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmw7nq/request_having_a_hard_time_teaching_co
+uld_use_a/
+STARTING... 325 <ForkProcess(ForkPoolWorker-7, started daemon)>
+807 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcldyz/request_please_anything_hel
+ps_it_would_really/
+STARTING... 808 <ForkProcess(ForkPoolWorker-17, started daemon)>
+377 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj37y8/request_shot_in_the_dark_no_chain_pizz
+a/
+STARTING... 378 <ForkProcess(ForkPoolWorker-8, started daemon)>
+708 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bm5zv5/request_less_deserving_than_others/
+STARTING... 709 <ForkProcess(ForkPoolWorker-15, started daemon)>
+901 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b3whak/request_a_good_pi
+zza_for_a_bad_day/
+STARTING... 902 <ForkProcess(ForkPoolWorker-19, started daemon)>
+617 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bumv2d/request_meriden_ct_usa_came_home_and_c
+ouldnt/
+STARTING... 618 <ForkProcess(ForkPoolWorker-13, started daemon)>
+474 Fulfilled potatotron23 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9wxsn/request_celebrating_the_e
+nd_of_a_depressive/
+STARTING... 475 <ForkProcess(ForkPoolWorker-10, started daemon)>
+952 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/az0cg1/request_id_love_a_pizza_or_two/
+STARTING... 953 <ForkProcess(ForkPoolWorker-20, started daemon)>
+421 Fulfilled floggingmurphies https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ceijge/request_husband_in_th
+e_hospital_not_having_to/
+STARTING... 422 <ForkProcess(ForkPoolWorker-9, started daemon)>
+1142 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/algp2u/request_apartment_building_has_no_hea
+t_and_the/
+STARTING... 1143 <ForkProcess(ForkPoolWorker-24, started daemon)>
+760 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhkzpp/request_my_bad_month_keeps_getting_wor
+se/
+STARTING... 761 <ForkProcess(ForkPoolWorker-16, started daemon)>
+83 Fulfilled missig https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/df3agl/request_usa_mission_log_tminus_t
+hree_days_to/
+STARTING... 84 <ForkProcess(ForkPoolWorker-2, started daemon)>
+229 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwtevz/request_very_tigh
+t_spot_financially_and_cant/
+STARTING... 230 <ForkProcess(ForkPoolWorker-5, started daemon)>
+40 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dkrydg/request_budget_shows_the_last_four_mont
+hs_ive/
+STARTING... 41 <ForkProcess(ForkPoolWorker-1, started daemon)>
+808 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcl2vu/request_tired_of_rice_and_veggies/
+STARTING... 809 <ForkProcess(ForkPoolWorker-17, started daemon)>
+572 Fulfilled TheThunderousSilence https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bykfsg/request_still_hav
+ent_been_able_to_pick_up_any/
+STARTING... 573 <ForkProcess(ForkPoolWorker-12, started daemon)>
+281 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cqhqf5/request_its_2_for_1_at_pizza_hut_right
+_meow/
+STARTING... 282 <ForkProcess(ForkPoolWorker-6, started daemon)>
+1091 Fulfilled shadejk https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoufsb/request_unexpected_sickness_s
+o_no_work_means_no/
+STARTING... 1092 <ForkProcess(ForkPoolWorker-23, started daemon)>
+1043 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asg9uy/request_us_ny_pizza_for_a_
+sick_girl/
+STARTING... 1044 <ForkProcess(ForkPoolWorker-22, started daemon)>
+665 Fulfilled Manonneke https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bpczbm/request_student_who_just_com
+pleted_his_finals/
+STARTING... 666 <ForkProcess(ForkPoolWorker-14, started daemon)>
+859 Fulfilled mmmmmcheesy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6q8xn/request_sick_and_out_of_lu
+ck_for_5_more_days/
+STARTING... 860 <ForkProcess(ForkPoolWorker-18, started daemon)>
+513 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c3u5pq/request_will_trade_pictures_o
+f_overjoyed_elderly/
+STARTING... 514 <ForkProcess(ForkPoolWorker-11, started daemon)>
+181 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d3bjlv/request_i_havent_ha
+d_a_hot_meal_in_two_days/
+STARTING... 182 <ForkProcess(ForkPoolWorker-4, started daemon)>
+230 Fulfilled cbussthrowaway https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwmvat/request_29m_ohio_in_a_t
+ough_spot/
+STARTING... 231 <ForkProcess(ForkPoolWorker-5, started daemon)>
+996 Fulfilled raya465 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aw8rjv/request_budget_doesnt_allow_fo
+r_pizza_would_love/
+STARTING... 997 <ForkProcess(ForkPoolWorker-21, started daemon)>
+282 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cqf6fl/request_financially_trying_to_recover_
+from_a/
+STARTING... 283 <ForkProcess(ForkPoolWorker-6, started daemon)>
+953 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ayz1py/request_been_jobless_
+for_two_months_now/
+STARTING... 954 <ForkProcess(ForkPoolWorker-20, started daemon)>
+84 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/df38ce/request_recently_moved_really_stru
+ggling_until_my/
+STARTING... 85 <ForkProcess(ForkPoolWorker-2, started daemon)>
+130 Fulfilled toomanydeployments https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da6oqj/request_enough_of_t
+he_veggies_and_rice/
+STARTING... 131 <ForkProcess(ForkPoolWorker-3, started daemon)>
+325 Fulfilled Jsweezy26 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmta2e/request_i_get_paid_on_friday
+_but_just_finished_my/
+STARTING... 326 <ForkProcess(ForkPoolWorker-7, started daemon)>
+666 Fulfilled jd-eagle https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bp9olm/request_my_depression_is_at_t
+he_highest_its_been/
+STARTING... 667 <ForkProcess(ForkPoolWorker-14, started daemon)>
+378 Fulfilled nay198 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cj0y8m/request_a_pinched_nerve_has_ren
+dered_me_useless/
+STARTING... 379 <ForkProcess(ForkPoolWorker-8, started daemon)>
+618 Fulfilled skibidybeebop0621 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buleaw/request_would_really
+_like_to_surprise_my_sweet/
+STARTING... 619 <ForkProcess(ForkPoolWorker-13, started daemon)>
+709 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/blzf48/request_my_girlfrie
+nd_and_i_have_been_going/
+STARTING... 710 <ForkProcess(ForkPoolWorker-15, started daemon)>
+1092 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aot5ol/request_essex_england/
+STARTING... 1093 <ForkProcess(ForkPoolWorker-23, started daemon)>
+41 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/djdllj/request_burnt_dinner_out_of_
+cash/
+STARTING... 42 <ForkProcess(ForkPoolWorker-1, started daemon)>
+860 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6nudn/request_watching_my_son_all_day_abd_mi
+ssus_has/
+STARTING... 861 <ForkProcess(ForkPoolWorker-18, started daemon)>
+422 Fulfilled UnsweetenedTeaPlease https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ceh4p8/request_unemploye
+d_guy_hoping_to_give_himself_and/
+STARTING... 423 <ForkProcess(ForkPoolWorker-9, started daemon)>
+809 Fulfilled StrongerVersionOfMe https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bckcsg/request_hungry_stu
+dent_burned_out_on_dining_hall/
+STARTING... 810 <ForkProcess(ForkPoolWorker-17, started daemon)>
+1044 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asg35t/request_whats_up_ladies_an
+d_germs_im_a_broke/
+STARTING... 1045 <ForkProcess(ForkPoolWorker-22, started daemon)>
+1143 Fulfilled Shadowpants https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/algjmk/request_have_been_eating_
+rice_for_the_past_week/
+STARTING... 1144 <ForkProcess(ForkPoolWorker-24, started daemon)>
+475 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9wwfv/request_starvin_l
+ike_marvin/
+STARTING... 476 <ForkProcess(ForkPoolWorker-10, started daemon)>
+902 Fulfilled THR https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b3nd9g/request_depressed_broke_and_could_
+really_use_an/
+STARTING... 903 <ForkProcess(ForkPoolWorker-19, started daemon)>
+131 Fulfilled ShipShoop https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da4da8/request_breinigsville_pa_inj
+ured_mom_with_sick/
+STARTING... 132 <ForkProcess(ForkPoolWorker-3, started daemon)>
+231 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwccfr/request_looking_for_some_he
+lp/
+STARTING... 232 <ForkProcess(ForkPoolWorker-5, started daemon)>
+283 Fulfilled Zeki_Boy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cqbq5n/request_just_another_broke_st
+udent_looking_for_a/
+STARTING... 284 <ForkProcess(ForkPoolWorker-6, started daemon)>
+182 Fulfilled Bravesman102 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d2z3a4/request_no_money_or_food_
+till_friday/
+STARTING... 183 <ForkProcess(ForkPoolWorker-4, started daemon)>
+761 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhh9uh/request_no_sob_story_just_out
+_of_money_and_would/
+STARTING... 762 <ForkProcess(ForkPoolWorker-16, started daemon)>
+42 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dj88u3/request_lost_my_job_uk/
+STARTING... 43 <ForkProcess(ForkPoolWorker-1, started daemon)>
+619 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bujuzy/request_would_love_to_be_able_to_surpr
+ise_my_wife/
+STARTING... 620 <ForkProcess(ForkPoolWorker-13, started daemon)>
+573 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byj1nd/request_i_havent_eaten_in_two
+_days_and_they/
+STARTING... 574 <ForkProcess(ForkPoolWorker-12, started daemon)>
+379 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ciwflh/request_housing_blues/
+STARTING... 380 <ForkProcess(ForkPoolWorker-8, started daemon)>
+514 Fulfilled Bird_Dawg https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c3kb9e/request_got_kinda_fleeced_ou
+tta_two_deals_in_one/
+STARTING... 515 <ForkProcess(ForkPoolWorker-11, started daemon)>
+997 Fulfilled SssshhhThrowaway https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aw6ijt/requestuk_lost_my_job
+_suddenly_last_month_feeling/
+STARTING... 998 <ForkProcess(ForkPoolWorker-21, started daemon)>
+1093 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aooe2l/request_wi_usa_i_am_so_sick_of_rice_a
+nd_buttered/
+STARTING... 1094 <ForkProcess(ForkPoolWorker-23, started daemon)>
+861 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6nkm5/request_surprise_bills_have_stuck_me_o
+n_pbj_until/
+STARTING... 862 <ForkProcess(ForkPoolWorker-18, started daemon)>
+326 Fulfilled zeki_boy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmse7c/request_currently_got_accepte
+d_to_school_wanna/
+STARTING... 327 <ForkProcess(ForkPoolWorker-7, started daemon)>
+710 Fulfilled TheDevilsMC https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/blym37/request_pregnant_and_would
+_like_a_pizza/
+STARTING... 711 <ForkProcess(ForkPoolWorker-15, started daemon)>
+1045 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asf7x4/requestuk_depressed_student_here_stru
+ggling_to/
+STARTING... 1046 <ForkProcess(ForkPoolWorker-22, started daemon)>
+667 Fulfilled tarlton24 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bp6k37/request_waiting_for_my_new_j
+ob_offer_to_come_in/
+STARTING... 668 <ForkProcess(ForkPoolWorker-14, started daemon)>
+85 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/desxrk/request_usa_very_pre
+gnant_cant_move_around_much/
+STARTING... 86 <ForkProcess(ForkPoolWorker-2, started daemon)>
+284 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cqaemg/request_trying_again_will_get_paid_on_
+the_23rd/
+STARTING... 285 <ForkProcess(ForkPoolWorker-6, started daemon)>
+183 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d2v7o8/request_family_and_i_are_being_put_out
+_for_a_few/
+STARTING... 184 <ForkProcess(ForkPoolWorker-4, started daemon)>
+380 Fulfilled unpaid_overtime https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cireo1/request_finally_gettin
+g_back_on_my_feet_but_got/
+STARTING... 381 <ForkProcess(ForkPoolWorker-8, started daemon)>
+476 Fulfilled zeki_boy https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9wgbb/requestsome_cheesy_goodness_f
+or_two_down_on_their/
+STARTING... 477 <ForkProcess(ForkPoolWorker-10, started daemon)>
+43 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dj1k30/request_any_possibility_of_getting_a_pi
+zza_in/
+STARTING... 44 <ForkProcess(ForkPoolWorker-1, started daemon)>
+1144 Fulfilled lifechamp https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/alff9m/request_no_meat_tacos_suck/
+STARTING... 1145 <ForkProcess(ForkPoolWorker-24, started daemon)>
+954 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aywk1o/request_its_my_bd
+ay_feeling_depressed/
+STARTING... 955 <ForkProcess(ForkPoolWorker-20, started daemon)>
+423 Fulfilled floggingmurphies https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ce66q6/request_had_a_rough_f
+ew_weeks_facing_eviction_and/
+STARTING... 424 <ForkProcess(ForkPoolWorker-9, started daemon)>
+903 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b3lzws/request_help_out_another_ov
+erloaded_underslept/
+STARTING... 904 <ForkProcess(ForkPoolWorker-19, started daemon)>
+1046 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/asf1xm/request_usa_been_a_few_days_since_ive
+_properly/
+STARTING... 1047 <ForkProcess(ForkPoolWorker-22, started daemon)>
+285 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cq2kt5/request_spending_tonight_hungry_after_
+paying_rent/
+STARTING... 286 <ForkProcess(ForkPoolWorker-6, started daemon)>
+132 Fulfilled LumpyBatter https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da3k8l/request_97301_broke_until_
+monday_but_tired_of/
+STARTING... 133 <ForkProcess(ForkPoolWorker-3, started daemon)>
+810 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcjw9n/request_wife_and_i_
+are_kinda_broke_and_i_havent/
+STARTING... 811 <ForkProcess(ForkPoolWorker-17, started daemon)>
+668 Fulfilled None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bp4tis/request_stuck_home_sick_from_work
+_would_like_to/
+STARTING... 669 <ForkProcess(ForkPoolWorker-14, started daemon)>
+762 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhgje2/request_i_just_started_a_new_
+job_and_have_little/
+STARTING... 763 <ForkProcess(ForkPoolWorker-16, started daemon)>
+620 Fulfilled sfinebyme https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/buh95g/request_would_love_a_pizza_f
+or_as_i_wait_to_get/
+STARTING... 621 <ForkProcess(ForkPoolWorker-13, started daemon)>
+515 Fulfilled Bird_Dawg https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c3k9os/request_one_week_until_payda
+y_and_i_just_have/
+STARTING... 516 <ForkProcess(ForkPoolWorker-11, started daemon)>
+232 Fulfilled Chris_L86 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwbp2q/request_no_money_until_thurs
+day_havent_eaten/
+STARTING... 233 <ForkProcess(ForkPoolWorker-5, started daemon)>
+904 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b3gbpy/request_playing_catch_up_with_finances
+_and_eating/
+STARTING... 905 <ForkProcess(ForkPoolWorker-19, started daemon)>
+381 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cir1ca/request_upcoming_college_student_who_c
+ould_really/
+STARTING... 382 <ForkProcess(ForkPoolWorker-8, started daemon)>
+711 None zehouse https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/blydcz/request_two_broke_girls_who_just_sp
+ent_every_last/
+STARTING... 712 <ForkProcess(ForkPoolWorker-15, started daemon)>
+955 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ayk92p/request_not_much_of_a_sob_story_here_j
+ust_dont/
+STARTING... 956 <ForkProcess(ForkPoolWorker-20, started daemon)>
+574 Fulfilled CoroPixel https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byfw7l/request_homeless_broke_and_j
+ust_wanting_some/
+STARTING... 575 <ForkProcess(ForkPoolWorker-12, started daemon)>
+862 Fulfilled grapefruitdressgrape https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6n22x/request_concussio
+nlazy_me/
+STARTING... 863 <ForkProcess(ForkPoolWorker-18, started daemon)>
+998 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/avyaia/request_my_family_w
+ould_really_enjoy_a_pizza/
+STARTING... 999 <ForkProcess(ForkPoolWorker-21, started daemon)>
+86 Fulfilled ICanHazTehCookie https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/des7q6/requestusa_hoping_to_s
+tretch_a_pizza_out_until/
+STARTING... 87 <ForkProcess(ForkPoolWorker-2, started daemon)>
+669 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bp1qz9/request_dont_have_any_good_or_money_fo
+r_24_hours/
+STARTING... 670 <ForkProcess(ForkPoolWorker-14, started daemon)>
+184 Fulfilled justjesstifyit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d2qjyf/request_i_left_my_lunch
+_on_the_kitchen_table/
+STARTING... 185 <ForkProcess(ForkPoolWorker-4, started daemon)>
+1094 Fulfilled UK_420 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aokqee/request_divorce_pizza_for_me_a
+nd_my_daughter/
+STARTING... 1095 <ForkProcess(ForkPoolWorker-23, started daemon)>
+1047 Fulfilled poke_the_sm0t https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/as2tau/request_us_the_ballad_o
+f_the_broke_depressed/
+STARTING... 1048 <ForkProcess(ForkPoolWorker-22, started daemon)>
+327 Fulfilled flippermode https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cmjaif/request_dont_get_paid_unti
+l_thursday_only_have/
+STARTING... 328 <ForkProcess(ForkPoolWorker-7, started daemon)>
+44 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/diy2ec/request_both_arms_sprained_a
+nd_moving_while/
+STARTING... 45 <ForkProcess(ForkPoolWorker-1, started daemon)>
+621 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bu6uhi/request_would_greatly_appreciate_a_sol
+id_meal_as/
+STARTING... 622 <ForkProcess(ForkPoolWorker-13, started daemon)>
+1145 Fulfilled killerpotate https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aleztv/request_had_to_contact_m
+y_landlord_about_a_late/
+STARTING... 1146 <ForkProcess(ForkPoolWorker-24, started daemon)>
+811 Fulfilled bobbyshark https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bch6x6/request_get_paid_on_monday_
+only_have_rice_in_the/
+STARTING... 812 <ForkProcess(ForkPoolWorker-17, started daemon)>
+956 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ayi0z4/request_chicago_payday_is_tomorrow_and
+_just_need/
+STARTING... 957 <ForkProcess(ForkPoolWorker-20, started daemon)>
+424 Fulfilled floggingmurphies https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ce5bi9/request_i_got_stood_u
+p_on_my_tinder_date_could/
+STARTING... 425 <ForkProcess(ForkPoolWorker-9, started daemon)>
+185 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/d2irix/request_waiting_on_my_workers_compensa
+tion_cheque/
+STARTING... 186 <ForkProcess(ForkPoolWorker-4, started daemon)>
+575 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/byegtz/request_had_to_call_in_sick_tonight_fo
+r_work_and/
+STARTING... 1152 <ForkProcess(ForkPoolWorker-12, started daemon)>
+516 Fulfilled tansquare https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c3ises/request_waiting_on_my_first_
+paycheck_hopefully/
+STARTING... 517 <ForkProcess(ForkPoolWorker-11, started daemon)>
+^[87 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/derxqv/request_bills_piling_up_got_dogcat_fo
+od_but_have/
+STARTING... 88 <ForkProcess(ForkPoolWorker-2, started daemon)>
+233 Fulfilled pinkkittylamp https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cwaouu/request_stuck_in_michiga
+n/
+STARTING... 234 <ForkProcess(ForkPoolWorker-5, started daemon)>
+863 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b6l0se/request_didnt_have_dinner_last_night_m
+ay_i_have/
+STARTING... 1200 <ForkProcess(ForkPoolWorker-18, started daemon)>
+477 Fulfilled jiggle-o https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c9qnwu/request_bank_accounts_are_ove
+rdrawn_sleeping_in_a/
+STARTING... 478 <ForkProcess(ForkPoolWorker-10, started daemon)>
+763 Fulfilled Cole7166 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bhg6yd/request_pizza_canada/
+STARTING... 764 <ForkProcess(ForkPoolWorker-16, started daemon)>
+^[622 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bu4qxa/request_broke_from_spending_my_savin
+gs_on_fixing/
+STARTING... 623 <ForkProcess(ForkPoolWorker-13, started daemon)>
+286 Fulfilled boomshakalaka85 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cq1zfs/request_was_robbed_by_
+friend_of_two_weeks_food/
+STARTING... 287 <ForkProcess(ForkPoolWorker-6, started daemon)>
+957 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ay9rlp/request_only_eaten_ramen_spagghetios_a
+nd_stale/
+STARTING... 958 <ForkProcess(ForkPoolWorker-20, started daemon)>
+133 Fulfilled toomanydeployments https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/da25e4/request_bad_few_wee
+ks_hungry_a_pizza_would_go_a/
+STARTING... 134 <ForkProcess(ForkPoolWorker-3, started daemon)>
+712 Fulfilled AxlikeMike https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bltn4i/request_im_really_hungry_an
+d_was_referred_to_this/
+STARTING... 713 <ForkProcess(ForkPoolWorker-15, started daemon)>
+d425 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/ce3on3/request_pizza_for_the_night/
+STARTING... 426 <ForkProcess(ForkPoolWorker-9, started daemon)>
+45 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/dipu5h/request_i_got_fired_from_my_job_and_did
+nt_get_paid/
+STARTING... 46 <ForkProcess(ForkPoolWorker-1, started daemon)>
+382 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cimwf1/request_just_kinda_
+hungry_no_money/
+STARTING... 383 <ForkProcess(ForkPoolWorker-8, started daemon)>
+670 Fulfilled PizzaHutOnReddit https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bp1m3p/request_ra_who_cant_l
+eave_the_building_for_the/
+STARTING... 671 <ForkProcess(ForkPoolWorker-14, started daemon)>
+1146 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/al5yn4/request_cheesy_goodness_to_tide_me_of
+f/
+STARTING... 1147 <ForkProcess(ForkPoolWorker-24, started daemon)>
+234 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/cw9t24/requesthbonow_and_my_yoga_app_just_mad
+e_me/
+STARTING... 235 <ForkProcess(ForkPoolWorker-5, started daemon)>
+517 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/c3fesa/request_uk_funds_are_being_held_longer
+_than_usual/
+STARTING... 518 <ForkProcess(ForkPoolWorker-11, started daemon)>
+1152 None None https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aktpsm/request_on_a_work_trip_without_any_pe
+rdiem_and/
+STARTING... 1153 <ForkProcess(ForkPoolWorker-12, started daemon)>
+905 Fulfilled procrastinator2112 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/b3dxfe/request_girlfriend_
+dumped_me_after_i_moved_7/
+STARTING... 906 <ForkProcess(ForkPoolWorker-19, started daemon)>
+812 Fulfilled Jsweezy26 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/bcgtku/request_gluten_free_veggie_p
+izza_for_my_wife/
+STARTING... 813 <ForkProcess(ForkPoolWorker-17, started daemon)>
+1095 Fulfilled UK_420 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/aoirdb/requestleeds_ukdepressed_and_a
+nnoyed/
+STARTING... 1096 <ForkProcess(ForkPoolWorker-23, started daemon)>
+1048 Fulfilled AI5JUL09 https://www.reddit.com/r/Random_Acts_Of_Pizza/comments/as1rxl/request_furnace_broke_and_so
+meone_stole_my_keys/
+STARTING... 1049 <ForkProcess(ForkPoolWorker-22, started daemon)>
+

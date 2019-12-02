@@ -25,7 +25,7 @@ def getSubComments(comment, subComments, verbose=True):
 def construct_features(idx): #index in submissions
         GiversBotId = 'np6d0'
         submission = submissions[idx]
-        print("STARTING...", idx)
+        print("STARTING...", idx, multiprocessing.current_process())
         d = {}
 
         d['request_id'] = submission.id
@@ -46,12 +46,6 @@ def construct_features(idx): #index in submissions
         d['requester_account_age_in_days_at_request'] = divmod(submission.created_utc - submission.author.created_utc, 86400)[0]
 
         d['request_url'] = submission.url
-
-
-        try:
-            requester_created_utc = submission.author.created_utc
-        except: #if created_utc is not an attribute, the author has been suspended
-            return
 
 
         requester_subreddits_at_request = set()
@@ -154,7 +148,10 @@ if __name__ == '__main__':
     submissions = None
     with open('submissions.pkl','rb') as f:
         submissions = pickle.load(f)
-    pool = multiprocessing.Pool(8)
+
+    print ("submission length", len(submissions))
+
+    pool = multiprocessing.Pool(24)
 
 
     dict_list = pool.map(construct_features, range(len(submissions)))
