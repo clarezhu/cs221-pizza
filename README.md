@@ -10,3 +10,7 @@
   * progress_graph.ipynb, progress_graph_new_data.ipynb: generate t-SNE visualizations of graph data 
 * ingest_and_split.ipynb: creates the train/val/test splits
 * link_prediction_node2vec.ipynb: demonstrates graph methods
+* ngrams.ipynb: ngrams methods
+* word2vec.ipynb: word2nec methods
+* bert_model.ipynb: fine tuning bert methods
+* bert.ipynb/bert.py: bert without fine-tuning
